@@ -1,0 +1,70 @@
+{
+  "MOLEX 733910060": {
+    "suplierName": "DigitKey",
+    "stock": "9,237",
+    "prices": ["$5.15000", "$4.52800", "$3.60163", "$3.60163", "$2.77838"]
+  },
+  "PIS150H-471M": {
+    "suplierName": "DigitKey",
+    "stock": "175",
+    "prices": ["$2.73000", "$2.52400", "$1.97720", "$1.34613", "$1.26200"]
+  },
+  "MOLEX 0733910070": {
+    "suplierName": "DigitKey",
+    "stock": "11,320",
+    "prices": ["$4.06000", "$3.57500", "$2.84338", "$2.84338", "$2.19346"]
+  },
+  "BMHSG-P": {
+    "suplierName": "DigitKey",
+    "stock": "5,529",
+    "prices": ["$16.67000", "$14.45000", "$11.90940", "$10.87726", "$10.87726"]
+  },
+  "996G1": {
+    "suplierName": "DigitKey",
+    "stock": "4,560",
+    "prices": ["$15.28000", "$13.54200", "$11.80610", "$9.23653", "$9.23653"],
+    "pricingTiers": [
+      {
+        "breakQty": "1",
+        "unitPrice": "$15.28000",
+        "extendedPrice": "$15.28",
+        "isStandardPackage": true
+      },
+      {
+        "breakQty": "10",
+        "unitPrice": "$13.54200",
+        "extendedPrice": "$135.42"
+      },
+      {
+        "breakQty": "25",
+        "unitPrice": "$13.02160",
+        "extendedPrice": "$325.54"
+      },
+      {
+        "breakQty": "50",
+        "unitPrice": "$12.50060",
+        "extendedPrice": "$625.03"
+      },
+      {
+        "breakQty": "100",
+        "unitPrice": "$11.80610",
+        "extendedPrice": "$1,180.61"
+      },
+      {
+        "breakQty": "250",
+        "unitPrice": "$10.76436",
+        "extendedPrice": "$2,691.09"
+      },
+      {
+        "breakQty": "500",
+        "unitPrice": "$10.06990",
+        "extendedPrice": "$5,034.95"
+      },
+      {
+        "breakQty": "1,000",
+        "unitPrice": "$9.23653",
+        "extendedPrice": "$9,236.53"
+      }
+    ]
+  }
+}
