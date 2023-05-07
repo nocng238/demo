@@ -1,50 +1,620 @@
 {
-  "996G1": {
-    "suplierName": "DigitKey",
-    "stock": "4,560",
-    "prices": ["$15.28000", "$13.54200", "$11.80610", "$9.23653", "$9.23653"],
-    "pricingTiers": [
-      {
-        "breakQty": "1",
-        "unitPrice": "$15.28000",
-        "extendedPrice": "$15.28",
-        "isStandardPackage": true
-      },
-      {
-        "breakQty": "10",
-        "unitPrice": "$13.54200",
-        "extendedPrice": "$135.42"
-      },
-      {
-        "breakQty": "25",
-        "unitPrice": "$13.02160",
-        "extendedPrice": "$325.54"
-      },
-      {
-        "breakQty": "50",
-        "unitPrice": "$12.50060",
-        "extendedPrice": "$625.03"
-      },
-      {
-        "breakQty": "100",
-        "unitPrice": "$11.80610",
-        "extendedPrice": "$1,180.61"
-      },
-      {
-        "breakQty": "250",
-        "unitPrice": "$10.76436",
-        "extendedPrice": "$2,691.09"
-      },
-      {
-        "breakQty": "500",
-        "unitPrice": "$10.06990",
-        "extendedPrice": "$5,034.95"
-      },
-      {
-        "breakQty": "1,000",
-        "unitPrice": "$9.23653",
-        "extendedPrice": "$9,236.53"
-      }
-    ]
-  }
+  "996G1": [
+    {
+      "suplierName": "DigitKey",
+      "stock": "4,560",
+      "prices": ["$15.28000", "$13.54200", "$11.80610", "$9.23653", "$9.23653"],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$15.28000",
+          "extendedPrice": "$15.28",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "10",
+          "unitPrice": "$13.54200",
+          "extendedPrice": "$135.42"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$13.02160",
+          "extendedPrice": "$325.54"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$12.50060",
+          "extendedPrice": "$625.03"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$11.80610",
+          "extendedPrice": "$1,180.61"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$10.76436",
+          "extendedPrice": "$2,691.09"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$10.06990",
+          "extendedPrice": "$5,034.95"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$9.23653",
+          "extendedPrice": "$9,236.53"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "80",
+      "prices": ["$15.27", "$13.54", "$11.80", "$9.23", "$9.23"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$15.27", "extendedPrice": "$15.27" },
+        {
+          "breakQty": "10.000000000000002",
+          "unitPrice": "$13.54",
+          "extendedPrice": "$135.40"
+        },
+        { "breakQty": "25", "unitPrice": "$13.02", "extendedPrice": "$325.50" },
+        {
+          "breakQty": "100",
+          "unitPrice": "$11.80",
+          "extendedPrice": "$1,180.00"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$10.76",
+          "extendedPrice": "$2,690.00"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$10.06",
+          "extendedPrice": "$5,030.00"
+        },
+        {
+          "breakQty": "1000",
+          "unitPrice": "$9.23",
+          "extendedPrice": "$9,230.00"
+        }
+      ]
+    }
+  ],
+  "PIS150H-471M": [
+    {
+      "suplierName": "DigitKey",
+      "stock": "175",
+      "prices": ["$2.73000", "$2.52400", "$1.97720", "$1.34613", "$1.26200"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.73000", "extendedPrice": "$2.73" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$2.52400",
+          "extendedPrice": "$25.24"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$2.31360",
+          "extendedPrice": "$57.84"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.97720",
+          "extendedPrice": "$98.86"
+        },
+        {
+          "breakQty": "175",
+          "unitPrice": "$1.76680",
+          "extendedPrice": "$309.19",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "350",
+          "unitPrice": "$1.51440",
+          "extendedPrice": "$530.04"
+        },
+        {
+          "breakQty": "525",
+          "unitPrice": "$1.43027",
+          "extendedPrice": "$750.89"
+        },
+        {
+          "breakQty": "875",
+          "unitPrice": "$1.34613",
+          "extendedPrice": "$1,177.86"
+        },
+        {
+          "breakQty": "1,225",
+          "unitPrice": "$1.30407",
+          "extendedPrice": "$1,597.49"
+        },
+        {
+          "breakQty": "4,375",
+          "unitPrice": "$1.26200",
+          "extendedPrice": "$5,521.25"
+        }
+      ]
+    }
+  ],
+  "PS1T24-7X": [
+    {
+      "suplierName": "DigitKey",
+      "stock": "748",
+      "prices": ["$11.07000", "$9.96600", "$8.90710", "$6.59610", "$6.59610"],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$11.07000",
+          "extendedPrice": "$11.07",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "10",
+          "unitPrice": "$9.96600",
+          "extendedPrice": "$99.66"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$9.38880",
+          "extendedPrice": "$234.72"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$9.14780",
+          "extendedPrice": "$457.39"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$8.90710",
+          "extendedPrice": "$890.71"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$7.94420",
+          "extendedPrice": "$1,986.05"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$7.46274",
+          "extendedPrice": "$3,731.37"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$6.59610",
+          "extendedPrice": "$6,596.10"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "38",
+      "prices": ["$11.04", "$9.96", "$8.33", "$7.46", "$7.46"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$11.04", "extendedPrice": "$11.04" },
+        {
+          "breakQty": "9.999999999999998",
+          "unitPrice": "$9.96",
+          "extendedPrice": "$99.60"
+        },
+        {
+          "breakQty": "25.000000000000004",
+          "unitPrice": "$8.70",
+          "extendedPrice": "$217.50"
+        },
+        { "breakQty": "100", "unitPrice": "$8.33", "extendedPrice": "$833.00" },
+        {
+          "breakQty": "250",
+          "unitPrice": "$7.54",
+          "extendedPrice": "$1,885.00"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$7.46",
+          "extendedPrice": "$3,730.00"
+        }
+      ]
+    }
+  ],
+  "SBSX75A-PLUG-BLK": [
+    {
+      "suplierName": "DigitKey",
+      "stock": "1,915",
+      "prices": [
+        "$20.77000",
+        "$17.99800",
+        "$14.83340",
+        "$13.54780",
+        "$13.54780"
+      ],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$20.77000",
+          "extendedPrice": "$20.77"
+        },
+        {
+          "breakQty": "10",
+          "unitPrice": "$17.99800",
+          "extendedPrice": "$179.98"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$17.05840",
+          "extendedPrice": "$426.46"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$16.81120",
+          "extendedPrice": "$840.56"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$14.83340",
+          "extendedPrice": "$1,483.34",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$13.84448",
+          "extendedPrice": "$3,461.12"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$13.54780",
+          "extendedPrice": "$6,773.90"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "1,836",
+      "prices": ["$20.76", "$17.99", "$14.83", "$13.54", "$13.54"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$20.76", "extendedPrice": "$20.76" },
+        {
+          "breakQty": "10.000000000000002",
+          "unitPrice": "$17.99",
+          "extendedPrice": "$179.90"
+        },
+        { "breakQty": "20", "unitPrice": "$17.06", "extendedPrice": "$341.20" },
+        {
+          "breakQty": "50.00000000000001",
+          "unitPrice": "$16.81",
+          "extendedPrice": "$840.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$14.83",
+          "extendedPrice": "$1,483.00"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$13.84",
+          "extendedPrice": "$2,768.00"
+        },
+        {
+          "breakQty": "500.00000000000006",
+          "unitPrice": "$13.54",
+          "extendedPrice": "$6,770.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "1,836",
+      "prices": ["$20.76", "$17.99", "$14.83", "$13.54", "$13.54"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$20.76", "extendedPrice": "$20.76" },
+        {
+          "breakQty": "10.000000000000002",
+          "unitPrice": "$17.99",
+          "extendedPrice": "$179.90"
+        },
+        { "breakQty": "20", "unitPrice": "$17.06", "extendedPrice": "$341.20" },
+        {
+          "breakQty": "50.00000000000001",
+          "unitPrice": "$16.81",
+          "extendedPrice": "$840.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$14.83",
+          "extendedPrice": "$1,483.00"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$13.84",
+          "extendedPrice": "$2,768.00"
+        },
+        {
+          "breakQty": "500.00000000000006",
+          "unitPrice": "$13.54",
+          "extendedPrice": "$6,770.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "1,836",
+      "prices": ["$20.76", "$17.99", "$14.83", "$13.54", "$13.54"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$20.76", "extendedPrice": "$20.76" },
+        {
+          "breakQty": "10.000000000000002",
+          "unitPrice": "$17.99",
+          "extendedPrice": "$179.90"
+        },
+        { "breakQty": "20", "unitPrice": "$17.06", "extendedPrice": "$341.20" },
+        {
+          "breakQty": "50.00000000000001",
+          "unitPrice": "$16.81",
+          "extendedPrice": "$840.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$14.83",
+          "extendedPrice": "$1,483.00"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$13.84",
+          "extendedPrice": "$2,768.00"
+        },
+        {
+          "breakQty": "500.00000000000006",
+          "unitPrice": "$13.54",
+          "extendedPrice": "$6,770.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "1,836",
+      "prices": ["$20.76", "$17.99", "$14.83", "$13.54", "$13.54"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$20.76", "extendedPrice": "$20.76" },
+        {
+          "breakQty": "10.000000000000002",
+          "unitPrice": "$17.99",
+          "extendedPrice": "$179.90"
+        },
+        { "breakQty": "20", "unitPrice": "$17.06", "extendedPrice": "$341.20" },
+        {
+          "breakQty": "50.00000000000001",
+          "unitPrice": "$16.81",
+          "extendedPrice": "$840.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$14.83",
+          "extendedPrice": "$1,483.00"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$13.84",
+          "extendedPrice": "$2,768.00"
+        },
+        {
+          "breakQty": "500.00000000000006",
+          "unitPrice": "$13.54",
+          "extendedPrice": "$6,770.00"
+        }
+      ]
+    }
+  ],
+  "H1120P62": [
+    {
+      "suplierName": "DigitKey",
+      "stock": "3,812",
+      "prices": ["$0.94000", "$0.79400", "$0.71330", "$0.51874", "$0.47010"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$0.94000", "extendedPrice": "$0.94" },
+        { "breakQty": "10", "unitPrice": "$0.79400", "extendedPrice": "$7.94" },
+        {
+          "breakQty": "25",
+          "unitPrice": "$0.76200",
+          "extendedPrice": "$19.05"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.74560",
+          "extendedPrice": "$37.28"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.71330",
+          "extendedPrice": "$71.33",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.64840",
+          "extendedPrice": "$162.10"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.58358",
+          "extendedPrice": "$291.79"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.51874",
+          "extendedPrice": "$518.74"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.47010",
+          "extendedPrice": "$1,175.25"
+        }
+      ]
+    }
+  ],
+  "SBSX75A-PMPLUG-BLK": [
+    {
+      "suplierName": "DigitKey",
+      "stock": "294",
+      "prices": ["$12.96000", "$11.48600", "$10.01350", "$7.83413", "$7.83413"],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$12.96000",
+          "extendedPrice": "$12.96"
+        },
+        {
+          "breakQty": "10",
+          "unitPrice": "$11.48600",
+          "extendedPrice": "$114.86"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$11.04440",
+          "extendedPrice": "$276.11"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$10.60260",
+          "extendedPrice": "$530.13"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$10.01350",
+          "extendedPrice": "$1,001.35",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$9.13000",
+          "extendedPrice": "$2,282.50"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$8.54096",
+          "extendedPrice": "$4,270.48"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$7.83413",
+          "extendedPrice": "$7,834.13"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "173",
+      "prices": ["$12.95", "$11.48", "$10.01", "$7.83", "$7.83"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$12.95", "extendedPrice": "$12.95" },
+        { "breakQty": "10", "unitPrice": "$11.48", "extendedPrice": "$114.80" },
+        {
+          "breakQty": "50.00000000000001",
+          "unitPrice": "$11.04",
+          "extendedPrice": "$552.00"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$10.01",
+          "extendedPrice": "$1,001.00"
+        },
+        {
+          "breakQty": "200.00000000000003",
+          "unitPrice": "$9.12",
+          "extendedPrice": "$1,824.00"
+        },
+        {
+          "breakQty": "500.00000000000006",
+          "unitPrice": "$8.54",
+          "extendedPrice": "$4,270.00"
+        },
+        {
+          "breakQty": "1000",
+          "unitPrice": "$7.83",
+          "extendedPrice": "$7,830.00"
+        }
+      ]
+    }
+  ],
+  "SBSX75A-REC-COVER": [
+    {
+      "suplierName": "DigitKey",
+      "stock": "469",
+      "prices": ["$7.44000", "$6.73100", "$5.89320", "$4.34239", "$4.34239"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$7.44000", "extendedPrice": "$7.44" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$6.73100",
+          "extendedPrice": "$67.31"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$6.35840",
+          "extendedPrice": "$158.96"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$6.20340",
+          "extendedPrice": "$310.17"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$5.89320",
+          "extendedPrice": "$589.32",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$5.27292",
+          "extendedPrice": "$1,318.23"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$4.96274",
+          "extendedPrice": "$2,481.37"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$4.34239",
+          "extendedPrice": "$4,342.39"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "stock": "453",
+      "prices": ["$7.44", "$6.73", "$5.89", "$4.34", "$4.12"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$7.44", "extendedPrice": "$7.44" },
+        {
+          "breakQty": "9.999999999999998",
+          "unitPrice": "$6.73",
+          "extendedPrice": "$67.30"
+        },
+        { "breakQty": "50", "unitPrice": "$6.36", "extendedPrice": "$318.00" },
+        { "breakQty": "100", "unitPrice": "$5.89", "extendedPrice": "$589.00" },
+        {
+          "breakQty": "200.00000000000003",
+          "unitPrice": "$5.27",
+          "extendedPrice": "$1,054.00"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$4.96",
+          "extendedPrice": "$2,480.00"
+        },
+        {
+          "breakQty": "1000",
+          "unitPrice": "$4.34",
+          "extendedPrice": "$4,340.00"
+        },
+        {
+          "breakQty": "2500",
+          "unitPrice": "$4.12",
+          "extendedPrice": "$10,300.00"
+        }
+      ]
+    }
+  ]
 }
