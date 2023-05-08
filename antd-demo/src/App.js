@@ -2,6 +2,7 @@ import React from "react";
 import "./index.css";
 import { Table, Input } from "antd";
 import { useEffect, useState } from "react";
+import { Image } from "antd";
 const { Search } = Input;
 const columns = [
   {
@@ -9,11 +10,25 @@ const columns = [
     dataIndex: "suplierName",
     sorter: true,
     width: "20%",
+    render: (text, record) => <a href={"#"}>{record.suplierName}</a>,
+  },
+  {
+    title: "Image",
+    dataIndex: "image",
+    sorter: true,
+    width: "15%",
+    render: (text) => <Image src={text}></Image>,
+  },
+  {
+    title: "SKU",
+    dataIndex: "sku",
+    width: "10%",
+    render: (text, record) => <a href={record.link}>{text}</a>,
   },
   {
     title: "Stock",
     dataIndex: "stock",
-    width: "20%",
+    width: "10%",
   },
   {
     title: "1",
@@ -68,7 +83,7 @@ const App = () => {
   return (
     <>
       <Search
-        placeholder="input search text"
+        placeholder="input manufacture part number"
         onSearch={onSearch}
         style={{
           width: 400,

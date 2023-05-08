@@ -1,66 +1,2610 @@
 {
-  "MOLEX 733910060": {
-    "suplierName": "DigitKey",
-    "stock": "9,237",
-    "prices": ["$5.15000", "$4.52800", "$3.60163", "$3.60163", "$2.77838"]
-  },
-  "PIS150H-471M": {
-    "suplierName": "DigitKey",
-    "stock": "175",
-    "prices": ["$2.73000", "$2.52400", "$1.97720", "$1.34613", "$1.26200"]
-  },
-
-  "BMHSG-P": {
-    "suplierName": "DigitKey",
-    "stock": "5,529",
-    "prices": ["$16.67000", "$14.45000", "$11.90940", "$10.87726", "$10.87726"]
-  },
-  "996G1": {
-    "suplierName": "DigitKey",
-    "stock": "4,560",
-    "prices": ["$15.28000", "$13.54200", "$11.80610", "$9.23653", "$9.23653"],
-    "pricingTiers": [
-      {
-        "breakQty": "1",
-        "unitPrice": "$15.28000",
-        "extendedPrice": "$15.28",
-        "isStandardPackage": true
-      },
-      {
-        "breakQty": "10",
-        "unitPrice": "$13.54200",
-        "extendedPrice": "$135.42"
-      },
-      {
-        "breakQty": "25",
-        "unitPrice": "$13.02160",
-        "extendedPrice": "$325.54"
-      },
-      {
-        "breakQty": "50",
-        "unitPrice": "$12.50060",
-        "extendedPrice": "$625.03"
-      },
-      {
-        "breakQty": "100",
-        "unitPrice": "$11.80610",
-        "extendedPrice": "$1,180.61"
-      },
-      {
-        "breakQty": "250",
-        "unitPrice": "$10.76436",
-        "extendedPrice": "$2,691.09"
-      },
-      {
-        "breakQty": "500",
-        "unitPrice": "$10.06990",
-        "extendedPrice": "$5,034.95"
-      },
-      {
-        "breakQty": "1,000",
-        "unitPrice": "$9.23653",
-        "extendedPrice": "$9,236.53"
-      }
-    ]
-  }
+  "9926251005": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "187",
+      "sku": "281-9926251005-ND",
+      "link": "https://www.digikey.com/en/products/detail/weidm%C3%BCller/9926251005/1788797",
+      "image": "https://media.digikey.com/Photos/Weidmuller/9926251005_tmb.JPG",
+      "prices": [
+        "$24.02000",
+        "$21.16200",
+        "$17.15850",
+        "$16.52300",
+        "$16.52300"
+      ],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$24.02000",
+          "extendedPrice": "$24.02"
+        },
+        {
+          "breakQty": "5",
+          "unitPrice": "$22.87800",
+          "extendedPrice": "$114.39"
+        },
+        {
+          "breakQty": "10",
+          "unitPrice": "$21.16200",
+          "extendedPrice": "$211.62"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$18.30240",
+          "extendedPrice": "$915.12"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$17.15850",
+          "extendedPrice": "$1,715.85"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$16.52300",
+          "extendedPrice": "$4,130.75"
+        }
+      ]
+    }
+  ],
+  "9926251902": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "178",
+      "sku": "281-9926251902-ND",
+      "link": "https://www.digikey.com/en/products/detail/weidm%C3%BCller/9926251902/1788810",
+      "image": "https://media.digikey.com/photos/Weidmuller/9926251515_tmb.JPG",
+      "prices": [
+        "$29.17000",
+        "$25.70200",
+        "$20.83920",
+        "$20.06736",
+        "$20.06736"
+      ],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$29.17000",
+          "extendedPrice": "$29.17"
+        },
+        {
+          "breakQty": "5",
+          "unitPrice": "$27.78600",
+          "extendedPrice": "$138.93"
+        },
+        {
+          "breakQty": "10",
+          "unitPrice": "$25.70200",
+          "extendedPrice": "$257.02"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$22.22840",
+          "extendedPrice": "$1,111.42"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$20.83920",
+          "extendedPrice": "$2,083.92"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$20.06736",
+          "extendedPrice": "$5,016.84"
+        }
+      ]
+    }
+  ],
+  "9926252015": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "351",
+      "sku": "281-2509-ND",
+      "link": "https://www.digikey.com/en/products/detail/weidm%C3%BCller/9926252015/1788806",
+      "image": "https://media.digikey.com/photos/Weidmuller/9926252015_tmb.JPG",
+      "prices": [
+        "$62.56000",
+        "$56.30300",
+        "$43.79160",
+        "$43.79160",
+        "$43.79160"
+      ],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$62.56000",
+          "extendedPrice": "$62.56"
+        },
+        {
+          "breakQty": "5",
+          "unitPrice": "$59.43200",
+          "extendedPrice": "$297.16"
+        },
+        {
+          "breakQty": "10",
+          "unitPrice": "$56.30300",
+          "extendedPrice": "$563.03"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$46.91960",
+          "extendedPrice": "$2,345.98"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$43.79160",
+          "extendedPrice": "$4,379.16"
+        }
+      ]
+    }
+  ],
+  "4404.0004": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "28,446",
+      "sku": "486-2319-ND",
+      "link": "https://www.digikey.com/en/products/detail/schurter-inc/4404-0004/1650979",
+      "image": "https://media.digikey.com/photos/Schurter%20Photos/4404.0002_tmb.JPG",
+      "prices": ["$3.35000", "$3.35000", "$2.18300", "$1.67125", "$1.67125"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$3.35000", "extendedPrice": "$3.35" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$2.59700",
+          "extendedPrice": "$129.85"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$2.18300",
+          "extendedPrice": "$218.30",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.70602",
+          "extendedPrice": "$853.01"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.67125",
+          "extendedPrice": "$1,671.25"
+        }
+      ]
+    }
+  ],
+  "4404.0002": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "5,466",
+      "sku": "486-2317-ND",
+      "link": "https://www.digikey.com/en/products/detail/schurter-inc/4404-0002/1650976",
+      "image": "https://media.digikey.com/photos/Schurter%20Photos/4404.0002_tmb.JPG",
+      "prices": ["$3.35000", "$3.35000", "$2.18300", "$1.67125", "$1.67125"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$3.35000", "extendedPrice": "$3.35" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$2.59700",
+          "extendedPrice": "$129.85"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$2.18300",
+          "extendedPrice": "$218.30",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.70602",
+          "extendedPrice": "$853.01"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.67125",
+          "extendedPrice": "$1,671.25"
+        }
+      ]
+    }
+  ],
+  "4404.0105": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "5,110",
+      "sku": "486-3057-ND",
+      "link": "https://www.digikey.com/en/products/detail/schurter-inc/4404-0105/4895735",
+      "image": "https://media.digikey.com/Photos/Schurter%20Photos/T9-818%20SERIES_tmb.jpg",
+      "prices": ["$3.68000", "$3.68000", "$2.40400", "$1.84000", "$1.84000"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$3.68000", "extendedPrice": "$3.68" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$2.86000",
+          "extendedPrice": "$143.00"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$2.40400",
+          "extendedPrice": "$240.40",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.87900",
+          "extendedPrice": "$939.50"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.84000",
+          "extendedPrice": "$1,840.00"
+        }
+      ]
+    }
+  ],
+  "4404.0102": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "4,255",
+      "sku": "486-3054-ND",
+      "link": "https://www.digikey.com/en/products/detail/schurter-inc/4404-0102/4895732",
+      "image": "https://media.digikey.com/Photos/Schurter%20Photos/T9-818C-10_tmb.jpg",
+      "prices": ["$3.68000", "$3.68000", "$2.40400", "$1.84000", "$1.84000"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$3.68000", "extendedPrice": "$3.68" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$2.86000",
+          "extendedPrice": "$143.00"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$2.40400",
+          "extendedPrice": "$240.40",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.87900",
+          "extendedPrice": "$939.50"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.84000",
+          "extendedPrice": "$1,840.00"
+        }
+      ]
+    }
+  ],
+  "W57-XB7A4A10-15": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "9,369",
+      "sku": "PB534-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W57-XB7A4A10-15/512638",
+      "image": "https://media.digikey.com/Photos/TE%20Connectivity/W57-XB7A4A10-15_tmb.jpg",
+      "prices": ["$3.88000", "$3.62000", "$2.84425", "$1.80992", "$1.61600"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$3.88000", "extendedPrice": "$3.88" },
+        { "breakQty": "5", "unitPrice": "$3.75000", "extendedPrice": "$18.75" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$3.62000",
+          "extendedPrice": "$36.20"
+        },
+        {
+          "breakQty": "40",
+          "unitPrice": "$2.84425",
+          "extendedPrice": "$113.77"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$2.32705",
+          "extendedPrice": "$465.41",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "400",
+          "unitPrice": "$2.26240",
+          "extendedPrice": "$904.96"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$1.93920",
+          "extendedPrice": "$1,163.52"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.80992",
+          "extendedPrice": "$1,809.92"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$1.61600",
+          "extendedPrice": "$8,080.00"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-3": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "42,953",
+      "sku": "PB184-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W28-XQ1A-3/45060",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W28-XT1A,%20W28-XQ1A%20SERIES_tmb.jpg",
+      "prices": ["$5.33000", "$4.96300", "$3.21680", "$2.52752", "$2.52752"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.33000", "extendedPrice": "$5.33" },
+        { "breakQty": "5", "unitPrice": "$5.14600", "extendedPrice": "$25.73" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$4.96300",
+          "extendedPrice": "$49.63"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$3.86020",
+          "extendedPrice": "$193.01"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.21680",
+          "extendedPrice": "$321.68",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.12496",
+          "extendedPrice": "$781.24"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.66540",
+          "extendedPrice": "$1,332.70"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.52752",
+          "extendedPrice": "$2,527.52"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-20": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "6,301",
+      "sku": "PB425-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W28-XQ1A-20/365860",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W28-XT1A,%20W28-XQ1A%20SERIES_tmb.jpg",
+      "prices": ["$5.33000", "$4.96300", "$3.21680", "$2.52752", "$2.52752"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.33000", "extendedPrice": "$5.33" },
+        { "breakQty": "5", "unitPrice": "$5.14600", "extendedPrice": "$25.73" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$4.96300",
+          "extendedPrice": "$49.63"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$3.86020",
+          "extendedPrice": "$193.01"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.21680",
+          "extendedPrice": "$321.68",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.12496",
+          "extendedPrice": "$781.24"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.66540",
+          "extendedPrice": "$1,332.70"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.52752",
+          "extendedPrice": "$2,527.52"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-4": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "5,338",
+      "sku": "PB185-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W28-XQ1A-4/45062",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W28-XT1A,%20W28-XQ1A%20SERIES_tmb.jpg",
+      "prices": ["$5.33000", "$4.96300", "$3.21680", "$2.52752", "$2.52752"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.33000", "extendedPrice": "$5.33" },
+        { "breakQty": "5", "unitPrice": "$5.14600", "extendedPrice": "$25.73" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$4.96300",
+          "extendedPrice": "$49.63"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$3.86020",
+          "extendedPrice": "$193.01"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.21680",
+          "extendedPrice": "$321.68",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.12496",
+          "extendedPrice": "$781.24"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.66540",
+          "extendedPrice": "$1,332.70"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.52752",
+          "extendedPrice": "$2,527.52"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-6": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "2,004",
+      "sku": "PB187-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W28-XQ1A-6/45066",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W28-XT1A,%20W28-XQ1A%20SERIES_tmb.jpg",
+      "prices": ["$5.33000", "$4.96300", "$3.21680", "$2.52752", "$2.52752"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.33000", "extendedPrice": "$5.33" },
+        { "breakQty": "5", "unitPrice": "$5.14600", "extendedPrice": "$25.73" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$4.96300",
+          "extendedPrice": "$49.63"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$3.86020",
+          "extendedPrice": "$193.01"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.21680",
+          "extendedPrice": "$321.68",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.12496",
+          "extendedPrice": "$781.24"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.66540",
+          "extendedPrice": "$1,332.70"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.52752",
+          "extendedPrice": "$2,527.52"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-5": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "22,530",
+      "sku": "PB186-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W28-XQ1A-5/45064",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W28-XT1A,%20W28-XQ1A%20SERIES_tmb.jpg",
+      "prices": ["$5.68000", "$5.29000", "$3.42900", "$2.69418", "$2.69418"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.68000", "extendedPrice": "$5.68" },
+        { "breakQty": "5", "unitPrice": "$5.48600", "extendedPrice": "$27.43" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.29000",
+          "extendedPrice": "$52.90"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$4.11480",
+          "extendedPrice": "$205.74"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.42900",
+          "extendedPrice": "$342.90",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.33096",
+          "extendedPrice": "$832.74"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.84112",
+          "extendedPrice": "$1,420.56"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.69418",
+          "extendedPrice": "$2,694.18"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-15": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "12,751",
+      "sku": "PB192-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W28-XQ1A-15/45076",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W28-XT1A,%20W28-XQ1A%20SERIES_tmb.jpg",
+      "prices": ["$5.68000", "$5.29000", "$3.42900", "$2.69418", "$2.69418"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.68000", "extendedPrice": "$5.68" },
+        { "breakQty": "5", "unitPrice": "$5.48600", "extendedPrice": "$27.43" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.29000",
+          "extendedPrice": "$52.90"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$4.11480",
+          "extendedPrice": "$205.74"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.42900",
+          "extendedPrice": "$342.90",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.33096",
+          "extendedPrice": "$832.74"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.84112",
+          "extendedPrice": "$1,420.56"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.69418",
+          "extendedPrice": "$2,694.18"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-10": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "285",
+      "sku": "PB190-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W28-XQ1A-10/45072",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W28-XT1A,%20W28-XQ1A%20SERIES_tmb.jpg",
+      "prices": ["$5.68000", "$5.29000", "$3.42900", "$2.69418", "$2.69418"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.68000", "extendedPrice": "$5.68" },
+        { "breakQty": "5", "unitPrice": "$5.48600", "extendedPrice": "$27.43" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.29000",
+          "extendedPrice": "$52.90"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$4.11480",
+          "extendedPrice": "$205.74"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.42900",
+          "extendedPrice": "$342.90",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.33096",
+          "extendedPrice": "$832.74"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.84112",
+          "extendedPrice": "$1,420.56"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.69418",
+          "extendedPrice": "$2,694.18"
+        }
+      ]
+    }
+  ],
+  "W51-A152A1-15": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "8,553",
+      "sku": "PB1034-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W51-A152A1-15/1095355",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W51-A152A1%20SERIES_tmb.jpg",
+      "prices": ["$6.00000", "$5.59000", "$4.34800", "$2.84694", "$2.84694"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$6.00000", "extendedPrice": "$6.00" },
+        { "breakQty": "5", "unitPrice": "$5.79800", "extendedPrice": "$28.99" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.59000",
+          "extendedPrice": "$55.90"
+        },
+        {
+          "breakQty": "40",
+          "unitPrice": "$4.34800",
+          "extendedPrice": "$173.92"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$3.62340",
+          "extendedPrice": "$724.68",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "400",
+          "unitPrice": "$3.51985",
+          "extendedPrice": "$1,407.94"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$3.00223",
+          "extendedPrice": "$1,801.34"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.84694",
+          "extendedPrice": "$2,846.94"
+        }
+      ]
+    }
+  ],
+  "1658-G21-01-P10-20A": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "948",
+      "sku": "302-1266-ND",
+      "link": "https://www.digikey.com/en/products/detail/e-t-a/1658-G21-01-P10-20A/659613",
+      "image": "https://media.digikey.com/Photos/E-T-A%20Photos/1658-G21-01-P10-xxA_tmb.jpg",
+      "prices": ["$6.27000", "$5.83600", "$3.78240", "$2.97192", "$2.97192"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$6.27000", "extendedPrice": "$6.27" },
+        { "breakQty": "5", "unitPrice": "$6.05200", "extendedPrice": "$30.26" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.83600",
+          "extendedPrice": "$58.36"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$4.53900",
+          "extendedPrice": "$226.95"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$3.78240",
+          "extendedPrice": "$378.24"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$3.67440",
+          "extendedPrice": "$918.60",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$3.13404",
+          "extendedPrice": "$1,567.02"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.97192",
+          "extendedPrice": "$2,971.92"
+        }
+      ]
+    }
+  ],
+  "W51-A121B1-15": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "21,965",
+      "sku": "PB530-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W51-A121B1-15/512634",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W51-ILLUM%20SERIES_tmb.jpg",
+      "prices": ["$6.30000", "$5.86300", "$4.56025", "$2.98581", "$2.98581"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$6.30000", "extendedPrice": "$6.30" },
+        { "breakQty": "5", "unitPrice": "$6.08000", "extendedPrice": "$30.40" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.86300",
+          "extendedPrice": "$58.63"
+        },
+        {
+          "breakQty": "40",
+          "unitPrice": "$4.56025",
+          "extendedPrice": "$182.41"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$3.80010",
+          "extendedPrice": "$760.02",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "400",
+          "unitPrice": "$3.69155",
+          "extendedPrice": "$1,476.62"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$3.14867",
+          "extendedPrice": "$1,889.20"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.98581",
+          "extendedPrice": "$2,985.81"
+        }
+      ]
+    }
+  ],
+  "W51-A121B1-20": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "2,777",
+      "sku": "PB531-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W51-A121B1-20/512635",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W51-ILLUM%20SERIES_tmb.jpg",
+      "prices": ["$6.30000", "$5.86300", "$4.56025", "$2.98581", "$2.98581"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$6.30000", "extendedPrice": "$6.30" },
+        { "breakQty": "5", "unitPrice": "$6.08000", "extendedPrice": "$30.40" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.86300",
+          "extendedPrice": "$58.63"
+        },
+        {
+          "breakQty": "40",
+          "unitPrice": "$4.56025",
+          "extendedPrice": "$182.41"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$3.80010",
+          "extendedPrice": "$760.02",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "400",
+          "unitPrice": "$3.69155",
+          "extendedPrice": "$1,476.62"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$3.14867",
+          "extendedPrice": "$1,889.20"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.98581",
+          "extendedPrice": "$2,985.81"
+        }
+      ]
+    }
+  ],
+  "W51-A121B1-10": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "1,127",
+      "sku": "PB529-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W51-A121B1-10/512633",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W51-ILLUM%20SERIES_tmb.jpg",
+      "prices": ["$6.30000", "$5.86300", "$4.56025", "$2.98581", "$2.98581"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$6.30000", "extendedPrice": "$6.30" },
+        { "breakQty": "5", "unitPrice": "$6.08000", "extendedPrice": "$30.40" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$5.86300",
+          "extendedPrice": "$58.63"
+        },
+        {
+          "breakQty": "40",
+          "unitPrice": "$4.56025",
+          "extendedPrice": "$182.41"
+        },
+        {
+          "breakQty": "200",
+          "unitPrice": "$3.80010",
+          "extendedPrice": "$760.02",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "400",
+          "unitPrice": "$3.69155",
+          "extendedPrice": "$1,476.62"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$3.14867",
+          "extendedPrice": "$1,889.20"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$2.98581",
+          "extendedPrice": "$2,985.81"
+        }
+      ]
+    }
+  ],
+  "W58-XB1A4A-10": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "2,242",
+      "sku": "PB201-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W58-XB1A4A-10/45094",
+      "image": "https://media.digikey.com/Photos/TE%20Connectivity/W58-XB1A4A-10_tmb.jpg",
+      "prices": ["$9.53000", "$8.85000", "$5.78630", "$4.59500", "$4.59500"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$9.53000", "extendedPrice": "$9.53" },
+        { "breakQty": "5", "unitPrice": "$9.19000", "extendedPrice": "$45.95" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$8.85000",
+          "extendedPrice": "$88.50"
+        },
+        {
+          "breakQty": "40",
+          "unitPrice": "$6.80750",
+          "extendedPrice": "$272.30"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$5.78630",
+          "extendedPrice": "$578.63",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "300",
+          "unitPrice": "$5.44593",
+          "extendedPrice": "$1,633.78"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$4.76518",
+          "extendedPrice": "$2,382.59"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$4.59500",
+          "extendedPrice": "$4,595.00"
+        }
+      ]
+    }
+  ],
+  "W58-XB1A4A-5": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "1,389",
+      "sku": "PB197-ND",
+      "link": "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/W58-XB1A4A-5/45086",
+      "image": "https://media.digikey.com/photos/Tyco%20Potter%20Brumfield%20Photos/W58-XB1A4A%20SERIES_tmb.jpg",
+      "prices": ["$9.53000", "$8.85000", "$5.78630", "$4.59500", "$4.59500"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$9.53000", "extendedPrice": "$9.53" },
+        { "breakQty": "5", "unitPrice": "$9.19000", "extendedPrice": "$45.95" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$8.85000",
+          "extendedPrice": "$88.50"
+        },
+        {
+          "breakQty": "40",
+          "unitPrice": "$6.80750",
+          "extendedPrice": "$272.30"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$5.78630",
+          "extendedPrice": "$578.63",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "300",
+          "unitPrice": "$5.44593",
+          "extendedPrice": "$1,633.78"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$4.76518",
+          "extendedPrice": "$2,382.59"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$4.59500",
+          "extendedPrice": "$4,595.00"
+        }
+      ]
+    }
+  ],
+  "1620-1-20A": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "745",
+      "sku": "302-1365-ND",
+      "link": "https://www.digikey.com/en/products/detail/e-t-a/1620-1-20A/2137816",
+      "image": "https://media.digikey.com/photos/E-T-A%20Photos/1620-1-20A_tmb.jpg",
+      "prices": ["$10.15000", "$9.42700", "$6.16400", "$4.89496", "$4.89496"],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$10.15000",
+          "extendedPrice": "$10.15"
+        },
+        { "breakQty": "5", "unitPrice": "$9.79000", "extendedPrice": "$48.95" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$9.42700",
+          "extendedPrice": "$94.27"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$7.25180",
+          "extendedPrice": "$362.59"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$6.16400",
+          "extendedPrice": "$616.40"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$5.80144",
+          "extendedPrice": "$1,450.36",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$5.07626",
+          "extendedPrice": "$2,538.13"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$4.89496",
+          "extendedPrice": "$4,894.96"
+        }
+      ]
+    }
+  ],
+  "1610-92-5A": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "543",
+      "sku": "302-1336-ND",
+      "link": "https://www.digikey.com/en/products/detail/e-t-a/1610-92-5A/1857398",
+      "image": "https://media.digikey.com/photos/E-T-A%20Photos/1610-92-5A_tmb.JPG",
+      "prices": ["$10.22000", "$9.49200", "$6.20610", "$4.92834", "$4.92834"],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$10.22000",
+          "extendedPrice": "$10.22"
+        },
+        { "breakQty": "5", "unitPrice": "$9.85600", "extendedPrice": "$49.28" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$9.49200",
+          "extendedPrice": "$94.92"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$7.30120",
+          "extendedPrice": "$365.06",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$6.20610",
+          "extendedPrice": "$620.61"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$5.84100",
+          "extendedPrice": "$1,460.25"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$5.11088",
+          "extendedPrice": "$2,555.44"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$4.92834",
+          "extendedPrice": "$4,928.34"
+        }
+      ]
+    }
+  ],
+  "1610-21-5A": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "1,399",
+      "sku": "302-1334-ND",
+      "link": "https://www.digikey.com/en/products/detail/e-t-a/1610-21-5A/1857397",
+      "image": "https://media.digikey.com/photos/E-T-A%20Photos/1610-21-5A_tmb.JPG",
+      "prices": ["$10.37000", "$9.62800", "$6.29560", "$4.99941", "$4.99941"],
+      "pricingTiers": [
+        {
+          "breakQty": "1",
+          "unitPrice": "$10.37000",
+          "extendedPrice": "$10.37"
+        },
+        { "breakQty": "5", "unitPrice": "$9.99800", "extendedPrice": "$49.99" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$9.62800",
+          "extendedPrice": "$96.28"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$7.40660",
+          "extendedPrice": "$370.33",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$6.29560",
+          "extendedPrice": "$629.56"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$5.92524",
+          "extendedPrice": "$1,481.31"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$5.18458",
+          "extendedPrice": "$2,592.29"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$4.99941",
+          "extendedPrice": "$4,999.41"
+        }
+      ]
+    }
+  ],
+  "2051-09-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "104,249",
+      "sku": "2051-09-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2051-09-SM-RPLF/2625120",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/MFG_2051%20Series,%20Non-Standard%20SMD_tmb.jpg",
+      "prices": ["$0.76000", "$0.71900", "$0.50220", "$0.34239", "$0.30815"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$0.76000", "extendedPrice": "$0.76" },
+        { "breakQty": "5", "unitPrice": "$0.74200", "extendedPrice": "$3.71" },
+        { "breakQty": "10", "unitPrice": "$0.71900", "extendedPrice": "$7.19" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.60480",
+          "extendedPrice": "$30.24"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.50220",
+          "extendedPrice": "$50.22"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.45652",
+          "extendedPrice": "$114.13"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.38804",
+          "extendedPrice": "$194.02"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.34239",
+          "extendedPrice": "$342.39"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.31956",
+          "extendedPrice": "$798.90",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.30815",
+          "extendedPrice": "$1,540.75"
+        },
+        {
+          "breakQty": "12,500",
+          "unitPrice": "$0.29674",
+          "extendedPrice": "$3,709.25"
+        }
+      ]
+    }
+  ],
+  "2051-15-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "33,811",
+      "sku": "2051-15-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2051-15-SM-RPLF/2625368",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/MFG_2051%20Series,%20Non-Standard%20SMD_tmb.jpg",
+      "prices": ["$0.76000", "$0.71900", "$0.50220", "$0.34239", "$0.30815"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$0.76000", "extendedPrice": "$0.76" },
+        { "breakQty": "5", "unitPrice": "$0.74200", "extendedPrice": "$3.71" },
+        { "breakQty": "10", "unitPrice": "$0.71900", "extendedPrice": "$7.19" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.60480",
+          "extendedPrice": "$30.24"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.50220",
+          "extendedPrice": "$50.22"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.45652",
+          "extendedPrice": "$114.13"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.38804",
+          "extendedPrice": "$194.02"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.34239",
+          "extendedPrice": "$342.39"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.31956",
+          "extendedPrice": "$798.90",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.30815",
+          "extendedPrice": "$1,540.75"
+        },
+        {
+          "breakQty": "12,500",
+          "unitPrice": "$0.29674",
+          "extendedPrice": "$3,709.25"
+        }
+      ]
+    }
+  ],
+  "2053-07-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "21,453",
+      "sku": "2053-07-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2053-07-SM-RPLF/3466180",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/2053-23-SM-RPLF_tmb.jpg",
+      "prices": ["$0.78000", "$0.73500", "$0.51330", "$0.39662", "$0.31497"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$0.78000", "extendedPrice": "$0.78" },
+        { "breakQty": "5", "unitPrice": "$0.75800", "extendedPrice": "$3.79" },
+        { "breakQty": "10", "unitPrice": "$0.73500", "extendedPrice": "$7.35" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.61820",
+          "extendedPrice": "$30.91"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.51330",
+          "extendedPrice": "$51.33"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.46664",
+          "extendedPrice": "$116.66"
+        },
+        {
+          "breakQty": "900",
+          "unitPrice": "$0.39662",
+          "extendedPrice": "$356.96",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "1,800",
+          "unitPrice": "$0.33830",
+          "extendedPrice": "$608.94"
+        },
+        {
+          "breakQty": "2,700",
+          "unitPrice": "$0.32663",
+          "extendedPrice": "$881.90"
+        },
+        {
+          "breakQty": "4,500",
+          "unitPrice": "$0.32080",
+          "extendedPrice": "$1,443.60"
+        },
+        {
+          "breakQty": "6,300",
+          "unitPrice": "$0.31497",
+          "extendedPrice": "$1,984.31"
+        },
+        {
+          "breakQty": "22,500",
+          "unitPrice": "$0.30330",
+          "extendedPrice": "$6,824.25"
+        }
+      ]
+    }
+  ],
+  "B88069X6071T253": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "18,005",
+      "sku": "495-B88069X6071T253TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X6071T253/2269489",
+      "image": "https://media.digikey.com/Photos/Epcos%20Photos/S30-A150X_tmb.jpg",
+      "prices": ["$0.97000", "$0.88000", "$0.60660", "$0.43979", "$0.39429"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$0.97000", "extendedPrice": "$0.97" },
+        { "breakQty": "5", "unitPrice": "$0.94000", "extendedPrice": "$4.70" },
+        { "breakQty": "10", "unitPrice": "$0.88000", "extendedPrice": "$8.80" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.72800",
+          "extendedPrice": "$36.40"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.60660",
+          "extendedPrice": "$60.66"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.59144",
+          "extendedPrice": "$147.86"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.50044",
+          "extendedPrice": "$250.22"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.43979",
+          "extendedPrice": "$439.79"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.41704",
+          "extendedPrice": "$1,042.60",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.39429",
+          "extendedPrice": "$1,971.45"
+        },
+        {
+          "breakQty": "12,500",
+          "unitPrice": "$0.37913",
+          "extendedPrice": "$4,739.12"
+        }
+      ]
+    }
+  ],
+  "B88069X1023T253": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "6,429",
+      "sku": "495-B88069X1023T253TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X1023T253/6159676",
+      "image": "https://media.digikey.com/Photos/Epcos%20Photos/S30-A150X_tmb.jpg",
+      "prices": ["$1.02000", "$0.92100", "$0.63550", "$0.46073", "$0.41307"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.02000", "extendedPrice": "$1.02" },
+        { "breakQty": "5", "unitPrice": "$0.98600", "extendedPrice": "$4.93" },
+        { "breakQty": "10", "unitPrice": "$0.92100", "extendedPrice": "$9.21" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.76260",
+          "extendedPrice": "$38.13"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.63550",
+          "extendedPrice": "$63.55"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.61960",
+          "extendedPrice": "$154.90"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.52428",
+          "extendedPrice": "$262.14"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.46073",
+          "extendedPrice": "$460.73"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.43690",
+          "extendedPrice": "$1,092.25",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.41307",
+          "extendedPrice": "$2,065.35"
+        },
+        {
+          "breakQty": "12,500",
+          "unitPrice": "$0.39718",
+          "extendedPrice": "$4,964.75"
+        }
+      ]
+    }
+  ],
+  "GTCS23-750M-R01-2": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "20,820",
+      "sku": "GTCS23-750M-R01-2TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/littelfuse-inc/GTCS23-750M-R01-2/3712208",
+      "image": "https://media.digikey.com/photos/TE%20Connectivity/GTCS23_tmb.jpg",
+      "prices": ["$1.09000", "$0.98700", "$0.68090", "$0.49368", "$0.42559"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.09000", "extendedPrice": "$1.09" },
+        { "breakQty": "5", "unitPrice": "$1.05600", "extendedPrice": "$5.28" },
+        { "breakQty": "10", "unitPrice": "$0.98700", "extendedPrice": "$9.87" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.81720",
+          "extendedPrice": "$40.86"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.68090",
+          "extendedPrice": "$68.09"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.66392",
+          "extendedPrice": "$165.98"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.56178",
+          "extendedPrice": "$280.89"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.49368",
+          "extendedPrice": "$493.68"
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.46815",
+          "extendedPrice": "$936.30",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "4,000",
+          "unitPrice": "$0.45964",
+          "extendedPrice": "$1,838.56"
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$0.44261",
+          "extendedPrice": "$2,655.66"
+        },
+        {
+          "breakQty": "10,000",
+          "unitPrice": "$0.42559",
+          "extendedPrice": "$4,255.90"
+        }
+      ]
+    }
+  ],
+  "GTCC23-750M-R01-2": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "14,991",
+      "sku": "GTCC23-750M-R01-2TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/littelfuse-inc/GTCC23-750M-R01-2/3884914",
+      "image": "https://media.digikey.com/photos/TE%20Connectivity/GTCC23%20SERIES_tmb.jpg",
+      "prices": ["$1.27000", "$1.15200", "$0.79450", "$0.57599", "$0.49654"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.27000", "extendedPrice": "$1.27" },
+        { "breakQty": "5", "unitPrice": "$1.23200", "extendedPrice": "$6.16" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.15200",
+          "extendedPrice": "$11.52"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.95340",
+          "extendedPrice": "$47.67"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.79450",
+          "extendedPrice": "$79.45"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.77460",
+          "extendedPrice": "$193.65"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.65544",
+          "extendedPrice": "$327.72"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.57599",
+          "extendedPrice": "$575.99"
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.54620",
+          "extendedPrice": "$1,092.40",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "4,000",
+          "unitPrice": "$0.53627",
+          "extendedPrice": "$2,145.08"
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$0.51640",
+          "extendedPrice": "$3,098.40"
+        },
+        {
+          "breakQty": "10,000",
+          "unitPrice": "$0.49654",
+          "extendedPrice": "$4,965.40"
+        }
+      ]
+    }
+  ],
+  "2031-23T-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "9,396",
+      "sku": "2031-23T-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2031-23T-SM-RPLF/2499534",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/MFG_2031T-Series_tmb.jpg",
+      "prices": ["$1.39000", "$1.25900", "$0.86860", "$0.71660", "$0.56459"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.39000", "extendedPrice": "$1.39" },
+        { "breakQty": "5", "unitPrice": "$1.34600", "extendedPrice": "$6.73" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.25900",
+          "extendedPrice": "$12.59"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.04240",
+          "extendedPrice": "$52.12"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.86860",
+          "extendedPrice": "$86.86"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.84688",
+          "extendedPrice": "$211.72"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.71660",
+          "extendedPrice": "$358.30"
+        },
+        {
+          "breakQty": "1,500",
+          "unitPrice": "$0.60802",
+          "extendedPrice": "$912.03",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.58631",
+          "extendedPrice": "$1,758.93"
+        },
+        {
+          "breakQty": "7,500",
+          "unitPrice": "$0.56459",
+          "extendedPrice": "$4,234.43"
+        },
+        {
+          "breakQty": "10,500",
+          "unitPrice": "$0.54288",
+          "extendedPrice": "$5,700.24"
+        }
+      ]
+    }
+  ],
+  "2031-15T-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "8,955",
+      "sku": "2031-15T-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2031-15T-SM-RPLF/2499533",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/MFG_2031T-Series_tmb.jpg",
+      "prices": ["$1.39000", "$1.25900", "$0.86860", "$0.71660", "$0.56459"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.39000", "extendedPrice": "$1.39" },
+        { "breakQty": "5", "unitPrice": "$1.34600", "extendedPrice": "$6.73" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.25900",
+          "extendedPrice": "$12.59"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.04240",
+          "extendedPrice": "$52.12"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.86860",
+          "extendedPrice": "$86.86"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.84688",
+          "extendedPrice": "$211.72"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.71660",
+          "extendedPrice": "$358.30"
+        },
+        {
+          "breakQty": "1,500",
+          "unitPrice": "$0.60802",
+          "extendedPrice": "$912.03",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.58631",
+          "extendedPrice": "$1,758.93"
+        },
+        {
+          "breakQty": "7,500",
+          "unitPrice": "$0.56459",
+          "extendedPrice": "$4,234.43"
+        },
+        {
+          "breakQty": "10,500",
+          "unitPrice": "$0.54288",
+          "extendedPrice": "$5,700.24"
+        }
+      ]
+    }
+  ],
+  "SL1002A090SM": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "1,402",
+      "sku": "F3356TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/littelfuse-inc/SL1002A090SM/557163",
+      "image": "https://media.digikey.com/Photos/Littelfuse%20Photos/SL1002A%20SERIES_tmb.jpg",
+      "prices": ["$1.38000", "$1.25400", "$0.86480", "$0.62695", "$0.54048"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.38000", "extendedPrice": "$1.38" },
+        { "breakQty": "5", "unitPrice": "$1.34000", "extendedPrice": "$6.70" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.25400",
+          "extendedPrice": "$12.54"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.03780",
+          "extendedPrice": "$51.89"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.86480",
+          "extendedPrice": "$86.48"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.84316",
+          "extendedPrice": "$210.79"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.71342",
+          "extendedPrice": "$356.71"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.62695",
+          "extendedPrice": "$626.95",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.59453",
+          "extendedPrice": "$1,189.06"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.58371",
+          "extendedPrice": "$1,751.13"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.56210",
+          "extendedPrice": "$2,810.50"
+        },
+        {
+          "breakQty": "10,000",
+          "unitPrice": "$0.54048",
+          "extendedPrice": "$5,404.80"
+        }
+      ]
+    }
+  ],
+  "SG75": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "12,857",
+      "sku": "F4125TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/littelfuse-inc/SG75/2754499",
+      "image": "https://media.digikey.com/Renders/Littelfuse%20Renders/1812%20Series_tmb.jpg",
+      "prices": ["$1.47000", "$1.33300", "$0.91930", "$0.66649", "$0.57456"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.47000", "extendedPrice": "$1.47" },
+        { "breakQty": "5", "unitPrice": "$1.42400", "extendedPrice": "$7.12" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.33300",
+          "extendedPrice": "$13.33"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.10320",
+          "extendedPrice": "$55.16"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.91930",
+          "extendedPrice": "$91.93"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.89632",
+          "extendedPrice": "$224.08"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.75842",
+          "extendedPrice": "$379.21"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.66649",
+          "extendedPrice": "$666.49"
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.63202",
+          "extendedPrice": "$1,264.04",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "4,000",
+          "unitPrice": "$0.62053",
+          "extendedPrice": "$2,482.12"
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$0.59755",
+          "extendedPrice": "$3,585.30"
+        },
+        {
+          "breakQty": "10,000",
+          "unitPrice": "$0.57456",
+          "extendedPrice": "$5,745.60"
+        }
+      ]
+    }
+  ],
+  "2027-09-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "16,014",
+      "sku": "2027-09-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2027-09-SM-RPLF/2533356",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/2027-15-SM-RPLF_tmb.JPG",
+      "prices": ["$1.28000", "$1.16300", "$0.80190", "$0.58141", "$0.52126"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.28000", "extendedPrice": "$1.28" },
+        { "breakQty": "5", "unitPrice": "$1.24400", "extendedPrice": "$6.22" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.16300",
+          "extendedPrice": "$11.63"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.96240",
+          "extendedPrice": "$48.12"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.80190",
+          "extendedPrice": "$80.19"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.78188",
+          "extendedPrice": "$195.47"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.66160",
+          "extendedPrice": "$330.80",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.58141",
+          "extendedPrice": "$581.41"
+        },
+        {
+          "breakQty": "1,500",
+          "unitPrice": "$0.56136",
+          "extendedPrice": "$842.04"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.55133",
+          "extendedPrice": "$1,378.33"
+        },
+        {
+          "breakQty": "3,500",
+          "unitPrice": "$0.54131",
+          "extendedPrice": "$1,894.58"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.52126",
+          "extendedPrice": "$2,606.30"
+        },
+        {
+          "breakQty": "12,500",
+          "unitPrice": "$0.50121",
+          "extendedPrice": "$6,265.13"
+        }
+      ]
+    }
+  ],
+  "2027-07-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "12,077",
+      "sku": "2027-07-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2027-07-SM-RPLF/2533351",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/2027-15-SM-RPLF_tmb.JPG",
+      "prices": ["$1.28000", "$1.16300", "$0.80190", "$0.58141", "$0.52126"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.28000", "extendedPrice": "$1.28" },
+        { "breakQty": "5", "unitPrice": "$1.24400", "extendedPrice": "$6.22" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.16300",
+          "extendedPrice": "$11.63"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$0.96240",
+          "extendedPrice": "$48.12"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$0.80190",
+          "extendedPrice": "$80.19"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$0.78188",
+          "extendedPrice": "$195.47"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.66160",
+          "extendedPrice": "$330.80",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.58141",
+          "extendedPrice": "$581.41"
+        },
+        {
+          "breakQty": "1,500",
+          "unitPrice": "$0.56136",
+          "extendedPrice": "$842.04"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.55133",
+          "extendedPrice": "$1,378.33"
+        },
+        {
+          "breakQty": "3,500",
+          "unitPrice": "$0.54131",
+          "extendedPrice": "$1,894.58"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.52126",
+          "extendedPrice": "$2,606.30"
+        },
+        {
+          "breakQty": "12,500",
+          "unitPrice": "$0.50121",
+          "extendedPrice": "$6,265.13"
+        }
+      ]
+    }
+  ],
+  "GT-SMD181215012-TR": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "17,532",
+      "sku": "67-2000-2-ND",
+      "link": "https://www.digikey.com/en/products/detail/lumex-opto-components-inc/GT-SMD181215012-TR/768984",
+      "image": "https://media.digikey.com/photos/Lumex%20Photos/GT-SMD1812%20SERIES_tmb.jpg",
+      "prices": ["$1.84000", "$1.66400", "$1.13840", "$0.83189", "$0.72972"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$1.84000", "extendedPrice": "$1.84" },
+        { "breakQty": "5", "unitPrice": "$1.75200", "extendedPrice": "$8.76" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.66400",
+          "extendedPrice": "$16.64"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.34260",
+          "extendedPrice": "$67.13"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.13840",
+          "extendedPrice": "$113.84"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.10920",
+          "extendedPrice": "$277.30"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$0.93404",
+          "extendedPrice": "$467.02"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.83189",
+          "extendedPrice": "$831.89"
+        },
+        {
+          "breakQty": "2,500",
+          "unitPrice": "$0.78810",
+          "extendedPrice": "$1,970.25",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.72972",
+          "extendedPrice": "$3,648.60"
+        }
+      ]
+    }
+  ],
+  "B88069X9991T203": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "4,944",
+      "sku": "495-7269-2-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X9991T203/4945380",
+      "image": "https://media.digikey.com/Photos/Epcos%20Photos/B88069X9991T203_tmb.JPG",
+      "prices": ["$2.12000", "$1.91600", "$1.31070", "$0.95782", "$0.84019"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.12000", "extendedPrice": "$2.12" },
+        { "breakQty": "5", "unitPrice": "$2.01600", "extendedPrice": "$10.08" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.91600",
+          "extendedPrice": "$19.16"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.54600",
+          "extendedPrice": "$77.30"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.31070",
+          "extendedPrice": "$131.07"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.27708",
+          "extendedPrice": "$319.27"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.07544",
+          "extendedPrice": "$537.72"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.95782",
+          "extendedPrice": "$957.82"
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.90741",
+          "extendedPrice": "$1,814.82",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "4,000",
+          "unitPrice": "$0.87380",
+          "extendedPrice": "$3,495.20"
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$0.84019",
+          "extendedPrice": "$5,041.14"
+        }
+      ]
+    }
+  ],
+  "2036-07-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "70,686",
+      "sku": "2036-07-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2036-07-SM-RPLF/1219688",
+      "image": "https://media.digikey.com/photos/Bourns%20Photos/2036-35-SM-RPLF_tmb.JPG",
+      "prices": ["$2.15000", "$1.94600", "$1.33140", "$0.97293", "$0.85345"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.15000", "extendedPrice": "$2.15" },
+        { "breakQty": "5", "unitPrice": "$2.04800", "extendedPrice": "$10.24" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.94600",
+          "extendedPrice": "$19.46"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.57040",
+          "extendedPrice": "$78.52"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.33140",
+          "extendedPrice": "$133.14"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.29724",
+          "extendedPrice": "$324.31"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.09242",
+          "extendedPrice": "$546.21"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.97293",
+          "extendedPrice": "$972.93",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.92173",
+          "extendedPrice": "$1,843.46"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.88759",
+          "extendedPrice": "$2,662.77"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.85345",
+          "extendedPrice": "$4,267.25"
+        }
+      ]
+    }
+  ],
+  "2036-23-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "11,816",
+      "sku": "2036-23-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2036-23-SM-RPLF/1220328",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/MFG_2036-xx-SM-H-Series_tmb.jpg",
+      "prices": ["$2.15000", "$1.94600", "$1.33140", "$0.97293", "$0.85345"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.15000", "extendedPrice": "$2.15" },
+        { "breakQty": "5", "unitPrice": "$2.04800", "extendedPrice": "$10.24" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.94600",
+          "extendedPrice": "$19.46"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.57040",
+          "extendedPrice": "$78.52"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.33140",
+          "extendedPrice": "$133.14"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.29724",
+          "extendedPrice": "$324.31"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.09242",
+          "extendedPrice": "$546.21"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.97293",
+          "extendedPrice": "$972.93",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.92173",
+          "extendedPrice": "$1,843.46"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.88759",
+          "extendedPrice": "$2,662.77"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.85345",
+          "extendedPrice": "$4,267.25"
+        }
+      ]
+    }
+  ],
+  "2036-09-SM-RPLF": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "11,655",
+      "sku": "2036-09-SM-RPLFTR-ND",
+      "link": "https://www.digikey.com/en/products/detail/bourns-inc/2036-09-SM-RPLF/1220326",
+      "image": "https://media.digikey.com/Photos/Bourns%20Photos/MFG_2036-xx-SM-H-Series_tmb.jpg",
+      "prices": ["$2.05000", "$1.85400", "$1.26840", "$0.92688", "$0.81305"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.05000", "extendedPrice": "$2.05" },
+        { "breakQty": "5", "unitPrice": "$1.95200", "extendedPrice": "$9.76" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.85400",
+          "extendedPrice": "$18.54"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.49600",
+          "extendedPrice": "$74.80"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.26840",
+          "extendedPrice": "$126.84"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.23584",
+          "extendedPrice": "$308.96"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.04070",
+          "extendedPrice": "$520.35"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$0.92688",
+          "extendedPrice": "$926.88",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$0.87810",
+          "extendedPrice": "$1,756.20"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.84557",
+          "extendedPrice": "$2,536.71"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.81305",
+          "extendedPrice": "$4,065.25"
+        }
+      ]
+    }
+  ],
+  "B88069X5220T902": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "3,227",
+      "sku": "495-4670-2-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X5220T902/3721039",
+      "image": "https://media.digikey.com/Photos/Epcos%20Photos/B88069X5220T902_tmb.jpg",
+      "prices": ["$2.02000", "$1.82900", "$1.25120", "$1.02664", "$0.80207"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.02000", "extendedPrice": "$2.02" },
+        { "breakQty": "5", "unitPrice": "$1.92400", "extendedPrice": "$9.62" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.82900",
+          "extendedPrice": "$18.29"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.47580",
+          "extendedPrice": "$73.79"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.25120",
+          "extendedPrice": "$125.12"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.21916",
+          "extendedPrice": "$304.79"
+        },
+        {
+          "breakQty": "900",
+          "unitPrice": "$1.02664",
+          "extendedPrice": "$923.98",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "1,800",
+          "unitPrice": "$0.88227",
+          "extendedPrice": "$1,588.09"
+        },
+        {
+          "breakQty": "2,700",
+          "unitPrice": "$0.86623",
+          "extendedPrice": "$2,338.82"
+        },
+        {
+          "breakQty": "4,500",
+          "unitPrice": "$0.83415",
+          "extendedPrice": "$3,753.67"
+        },
+        {
+          "breakQty": "6,300",
+          "unitPrice": "$0.80207",
+          "extendedPrice": "$5,053.04"
+        }
+      ]
+    }
+  ],
+  "B88069X6771T902": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "4,407",
+      "sku": "495-4673-2-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X6771T902/3868305",
+      "image": "https://media.digikey.com/Photos/Epcos%20Photos/B88069X6771T902_tmb.jpg",
+      "prices": ["$2.31000", "$2.09000", "$1.42990", "$1.17322", "$0.91658"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.31000", "extendedPrice": "$2.31" },
+        { "breakQty": "5", "unitPrice": "$2.20000", "extendedPrice": "$11.00" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$2.09000",
+          "extendedPrice": "$20.90"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.68640",
+          "extendedPrice": "$84.32"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.42990",
+          "extendedPrice": "$142.99"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.39320",
+          "extendedPrice": "$348.30"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.17322",
+          "extendedPrice": "$586.61"
+        },
+        {
+          "breakQty": "1,200",
+          "unitPrice": "$1.04489",
+          "extendedPrice": "$1,253.87",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "2,400",
+          "unitPrice": "$0.98990",
+          "extendedPrice": "$2,375.76"
+        },
+        {
+          "breakQty": "3,600",
+          "unitPrice": "$0.95324",
+          "extendedPrice": "$3,431.66"
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$0.91658",
+          "extendedPrice": "$5,499.48"
+        }
+      ]
+    }
+  ],
+  "B88069X1640T902": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "38,405",
+      "sku": "495-4268-2-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X1640T902/2269477",
+      "image": "https://media.digikey.com/Photos/Epcos%20Photos/M50-C90XSMD_tmb.jpg",
+      "prices": ["$2.12000", "$1.91600", "$1.31070", "$1.07544", "$0.84019"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.12000", "extendedPrice": "$2.12" },
+        { "breakQty": "5", "unitPrice": "$2.01600", "extendedPrice": "$10.08" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$1.91600",
+          "extendedPrice": "$19.16"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.54600",
+          "extendedPrice": "$77.30"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.31070",
+          "extendedPrice": "$131.07"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.27708",
+          "extendedPrice": "$319.27"
+        },
+        {
+          "breakQty": "900",
+          "unitPrice": "$1.07544",
+          "extendedPrice": "$967.90",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "1,800",
+          "unitPrice": "$0.92421",
+          "extendedPrice": "$1,663.58"
+        },
+        {
+          "breakQty": "2,700",
+          "unitPrice": "$0.90741",
+          "extendedPrice": "$2,450.01"
+        },
+        {
+          "breakQty": "4,500",
+          "unitPrice": "$0.87380",
+          "extendedPrice": "$3,932.10"
+        },
+        {
+          "breakQty": "6,300",
+          "unitPrice": "$0.84019",
+          "extendedPrice": "$5,293.20"
+        }
+      ]
+    }
+  ],
+  "B88069X5020T103": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "12,161",
+      "sku": "495-4278-2-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X5020T103/2269487",
+      "image": "https://media.digikey.com/photos/Epcos%20Photos/M51-C90X_tmb.jpg",
+      "prices": ["$2.39000", "$2.15900", "$1.47750", "$1.07973", "$0.94713"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.39000", "extendedPrice": "$2.39" },
+        { "breakQty": "5", "unitPrice": "$2.27400", "extendedPrice": "$11.37" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$2.15900",
+          "extendedPrice": "$21.59"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.74280",
+          "extendedPrice": "$87.14"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.47750",
+          "extendedPrice": "$147.75"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.43964",
+          "extendedPrice": "$359.91"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.21232",
+          "extendedPrice": "$606.16"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.07973",
+          "extendedPrice": "$1,079.73",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "2,000",
+          "unitPrice": "$1.02290",
+          "extendedPrice": "$2,045.80"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.98501",
+          "extendedPrice": "$2,955.03"
+        },
+        {
+          "breakQty": "5,000",
+          "unitPrice": "$0.94713",
+          "extendedPrice": "$4,735.65"
+        }
+      ]
+    }
+  ],
+  "SE200": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "12,868",
+      "sku": "F6289TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/littelfuse-inc/SE200/4286087",
+      "image": "https://media.digikey.com/Renders/Littelfuse%20Renders/18_1206%20(3216%20Metric)_tmb.jpg",
+      "prices": ["$2.68000", "$2.42600", "$1.65970", "$1.21286", "$1.06391"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.68000", "extendedPrice": "$2.68" },
+        { "breakQty": "5", "unitPrice": "$2.55400", "extendedPrice": "$12.77" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$2.42600",
+          "extendedPrice": "$24.26"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.95760",
+          "extendedPrice": "$97.88"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.65970",
+          "extendedPrice": "$165.97"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.61716",
+          "extendedPrice": "$404.29"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.36180",
+          "extendedPrice": "$680.90"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.21286",
+          "extendedPrice": "$1,212.86"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$1.10647",
+          "extendedPrice": "$3,319.41",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$1.06391",
+          "extendedPrice": "$6,383.46"
+        }
+      ]
+    }
+  ],
+  "SE140": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "13,363",
+      "sku": "F6288TR-ND",
+      "link": "https://www.digikey.com/en/products/detail/littelfuse-inc/SE140/4286086",
+      "image": "https://media.digikey.com/Renders/Littelfuse%20Renders/18_1206%20(3216%20Metric)_tmb.jpg",
+      "prices": ["$2.68000", "$2.42600", "$1.65970", "$1.21286", "$1.06391"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.68000", "extendedPrice": "$2.68" },
+        { "breakQty": "5", "unitPrice": "$2.55400", "extendedPrice": "$12.77" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$2.42600",
+          "extendedPrice": "$24.26"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.95760",
+          "extendedPrice": "$97.88"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.65970",
+          "extendedPrice": "$165.97"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.61716",
+          "extendedPrice": "$404.29"
+        },
+        {
+          "breakQty": "500",
+          "unitPrice": "$1.36180",
+          "extendedPrice": "$680.90"
+        },
+        {
+          "breakQty": "1,000",
+          "unitPrice": "$1.21286",
+          "extendedPrice": "$1,212.86"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$1.10647",
+          "extendedPrice": "$3,319.41",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$1.06391",
+          "extendedPrice": "$6,383.46"
+        }
+      ]
+    }
+  ],
+  "B88069X1630T602": [
+    {
+      "suplierName": "DigiKey",
+      "stock": "46,999",
+      "sku": "495-5902-2-ND",
+      "link": "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88069X1630T602/1587472",
+      "image": "https://media.digikey.com/photos/Epcos%20Photos/B88069X1630T602_tmb.jpg",
+      "prices": ["$2.27000", "$2.05500", "$1.40600", "$1.15367", "$0.90130"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$2.27000", "extendedPrice": "$2.27" },
+        { "breakQty": "5", "unitPrice": "$2.16400", "extendedPrice": "$10.82" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$2.05500",
+          "extendedPrice": "$20.55"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$1.65840",
+          "extendedPrice": "$82.92"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$1.40600",
+          "extendedPrice": "$140.60"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$1.36996",
+          "extendedPrice": "$342.49"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$1.15367",
+          "extendedPrice": "$692.20",
+          "isStandardPackage": true
+        },
+        {
+          "breakQty": "1,200",
+          "unitPrice": "$1.02748",
+          "extendedPrice": "$1,232.98"
+        },
+        {
+          "breakQty": "1,800",
+          "unitPrice": "$0.99143",
+          "extendedPrice": "$1,784.57"
+        },
+        {
+          "breakQty": "3,000",
+          "unitPrice": "$0.93735",
+          "extendedPrice": "$2,812.05"
+        },
+        {
+          "breakQty": "6,000",
+          "unitPrice": "$0.90130",
+          "extendedPrice": "$5,407.80"
+        }
+      ]
+    }
+  ]
 }

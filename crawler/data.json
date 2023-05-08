@@ -1,7 +1,1136 @@
 {
+  "1324402": [
+    {
+      "suplierName": "Mouser",
+      "sku": "651-1324402",
+      "link": "https://www.mouser.com/ProductDetail/Phoenix-Contact/1324402?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruLccPwQj2wE7b2We%2FUxc4%2FQ%3D%3D",
+      "stock": "36",
+      "prices": ["$47.25", "$47.25", "$45.00", "$45.00", "$45.00"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$47.25", "extendedPrice": "$47.25" },
+        {
+          "breakQty": "100",
+          "unitPrice": "$45.00",
+          "extendedPrice": "$4,500.00"
+        }
+      ]
+    }
+  ],
+  "1344361": [
+    {
+      "suplierName": "Mouser",
+      "stock": "40",
+      "prices": ["$110.20", "$102.29", "$92.40", "$92.40", "$92.40"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$110.20", "extendedPrice": "$110.20" },
+        { "breakQty": "5", "unitPrice": "$105.60", "extendedPrice": "$528.00" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$102.29",
+          "extendedPrice": "$1,022.90"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$99.00",
+          "extendedPrice": "$2,475.00"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$95.69",
+          "extendedPrice": "$4,784.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$92.40",
+          "extendedPrice": "$9,240.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "651-1344361",
+      "link": "https://www.mouser.com/ProductDetail/Phoenix-Contact/1344361?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruTkhGhzxXcCjomFVAlQ5N7w%3D%3D",
+      "stock": "40",
+      "prices": ["$110.20", "$102.29", "$92.40", "$92.40", "$92.40"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$110.20", "extendedPrice": "$110.20" },
+        { "breakQty": "5", "unitPrice": "$105.60", "extendedPrice": "$528.00" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$102.29",
+          "extendedPrice": "$1,022.90"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$99.00",
+          "extendedPrice": "$2,475.00"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$95.69",
+          "extendedPrice": "$4,784.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$92.40",
+          "extendedPrice": "$9,240.00"
+        }
+      ]
+    }
+  ],
+  "1344363": [
+    {
+      "suplierName": "Mouser",
+      "stock": "100",
+      "prices": ["$50.04", "$46.45", "$41.96", "$41.21", "$41.21"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$50.04", "extendedPrice": "$50.04" },
+        { "breakQty": "5", "unitPrice": "$47.95", "extendedPrice": "$239.75" },
+        { "breakQty": "10", "unitPrice": "$46.45", "extendedPrice": "$464.50" },
+        {
+          "breakQty": "25",
+          "unitPrice": "$44.95",
+          "extendedPrice": "$1,123.75"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$43.45",
+          "extendedPrice": "$2,172.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$41.96",
+          "extendedPrice": "$4,196.00"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$41.21",
+          "extendedPrice": "$10,302.50"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "651-1344363",
+      "link": "https://www.mouser.com/ProductDetail/Phoenix-Contact/1344363?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWru1ffFBFAaGo6Qy94hRmBCrg%3D%3D",
+      "stock": "100",
+      "prices": ["$50.04", "$46.45", "$41.96", "$41.21", "$41.21"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$50.04", "extendedPrice": "$50.04" },
+        { "breakQty": "5", "unitPrice": "$47.95", "extendedPrice": "$239.75" },
+        { "breakQty": "10", "unitPrice": "$46.45", "extendedPrice": "$464.50" },
+        {
+          "breakQty": "25",
+          "unitPrice": "$44.95",
+          "extendedPrice": "$1,123.75"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$43.45",
+          "extendedPrice": "$2,172.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$41.96",
+          "extendedPrice": "$4,196.00"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$41.21",
+          "extendedPrice": "$10,302.50"
+        }
+      ]
+    }
+  ],
+  "1344364": [
+    {
+      "suplierName": "Mouser",
+      "stock": "64",
+      "prices": ["$110.20", "$102.29", "$92.40", "$92.40", "$92.40"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$110.20", "extendedPrice": "$110.20" },
+        { "breakQty": "5", "unitPrice": "$105.60", "extendedPrice": "$528.00" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$102.29",
+          "extendedPrice": "$1,022.90"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$99.00",
+          "extendedPrice": "$2,475.00"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$95.69",
+          "extendedPrice": "$4,784.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$92.40",
+          "extendedPrice": "$9,240.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "651-1344364",
+      "link": "https://www.mouser.com/ProductDetail/Phoenix-Contact/1344364?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruUVA7Ap3dXHlZRbgOrgjEdg%3D%3D",
+      "stock": "64",
+      "prices": ["$110.20", "$102.29", "$92.40", "$92.40", "$92.40"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$110.20", "extendedPrice": "$110.20" },
+        { "breakQty": "5", "unitPrice": "$105.60", "extendedPrice": "$528.00" },
+        {
+          "breakQty": "10",
+          "unitPrice": "$102.29",
+          "extendedPrice": "$1,022.90"
+        },
+        {
+          "breakQty": "25",
+          "unitPrice": "$99.00",
+          "extendedPrice": "$2,475.00"
+        },
+        {
+          "breakQty": "50",
+          "unitPrice": "$95.69",
+          "extendedPrice": "$4,784.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$92.40",
+          "extendedPrice": "$9,240.00"
+        }
+      ]
+    }
+  ],
+  "2822000000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "11",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822000000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822000000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruxD8JCDj3QA1eNUUosTT9GQ%3D%3D",
+      "stock": "11",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822020000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "12",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822020000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822020000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWru%2Ff73cPLdco2d5h58W9sMDg%3D%3D",
+      "stock": "12",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822030000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "12",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822030000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822030000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruP6aitvUKfn5FJwlyvJAHcA%3D%3D",
+      "stock": "12",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822040000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "7",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822040000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822040000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWrurSwoAjXBClkMl03KBI9sIw%3D%3D",
+      "stock": "7",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822050000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "12",
+      "prices": ["$37.33", "$35.55", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.33", "extendedPrice": "$37.33" },
+        { "breakQty": "5", "unitPrice": "$35.55", "extendedPrice": "$177.75" },
+        { "breakQty": "12", "unitPrice": "$32.88", "extendedPrice": "$394.56" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.66",
+          "extendedPrice": "$2,879.28"
+        },
+        {
+          "breakQty": "252.00000000000003",
+          "unitPrice": "$24.88",
+          "extendedPrice": "$6,269.76"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822050000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822050000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWrutxGd1G2on6Kx0YvPrz05xA%3D%3D",
+      "stock": "12",
+      "prices": ["$37.33", "$35.55", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.33", "extendedPrice": "$37.33" },
+        { "breakQty": "5", "unitPrice": "$35.55", "extendedPrice": "$177.75" },
+        { "breakQty": "12", "unitPrice": "$32.88", "extendedPrice": "$394.56" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.66",
+          "extendedPrice": "$2,879.28"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.88",
+          "extendedPrice": "$6,269.76"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822060000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "12",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822060000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822060000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruglFvr57AwgO7Tk1QyIoM7A%3D%3D",
+      "stock": "12",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822080000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "6",
+      "prices": ["$37.33", "$35.55", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.33", "extendedPrice": "$37.33" },
+        { "breakQty": "5", "unitPrice": "$35.55", "extendedPrice": "$177.75" },
+        { "breakQty": "12", "unitPrice": "$32.88", "extendedPrice": "$394.56" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.66",
+          "extendedPrice": "$2,879.28"
+        },
+        {
+          "breakQty": "252.00000000000003",
+          "unitPrice": "$24.88",
+          "extendedPrice": "$6,269.76"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822080000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822080000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruO4C8ZYl3mJNuO%2FwYNZa4LQ%3D%3D",
+      "stock": "6",
+      "prices": ["$37.33", "$35.55", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.33", "extendedPrice": "$37.33" },
+        { "breakQty": "5", "unitPrice": "$35.55", "extendedPrice": "$177.75" },
+        { "breakQty": "12", "unitPrice": "$32.88", "extendedPrice": "$394.56" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.66",
+          "extendedPrice": "$2,879.28"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.88",
+          "extendedPrice": "$6,269.76"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822100000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "41",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822100000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822100000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruc%2Fwzn0jEL2aSKJW0mIAA3w%3D%3D",
+      "stock": "41",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822130000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "11",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822130000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822130000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruv2vHhvIUKwgoc4%2FLhcT2ag%3D%3D",
+      "stock": "11",
+      "prices": ["$37.32", "$35.54", "$28.43", "$23.63", "$23.63"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$37.32", "extendedPrice": "$37.32" },
+        { "breakQty": "5", "unitPrice": "$35.54", "extendedPrice": "$177.70" },
+        { "breakQty": "12", "unitPrice": "$32.87", "extendedPrice": "$394.44" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$28.43",
+          "extendedPrice": "$1,705.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$26.65",
+          "extendedPrice": "$2,878.20"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$24.87",
+          "extendedPrice": "$6,267.24"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$23.63",
+          "extendedPrice": "$11,909.52"
+        }
+      ]
+    }
+  ],
+  "2822170000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "6",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        {
+          "breakQty": "7.000000000000001",
+          "unitPrice": "$63.98",
+          "extendedPrice": "$447.86"
+        },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105.00000000000001",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822170000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822170000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruk9o%2FveUwgFxTLHI7ESk4Eg%3D%3D",
+      "stock": "6",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        { "breakQty": "7", "unitPrice": "$63.98", "extendedPrice": "$447.86" },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    }
+  ],
+  "2822180000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "7",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        {
+          "breakQty": "7.000000000000001",
+          "unitPrice": "$63.98",
+          "extendedPrice": "$447.86"
+        },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105.00000000000001",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822180000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822180000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruX1G6gl9mKKGBv%2FegED2jMQ%3D%3D",
+      "stock": "7",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        { "breakQty": "7", "unitPrice": "$63.98", "extendedPrice": "$447.86" },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    }
+  ],
+  "2822210000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "7",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        {
+          "breakQty": "7.000000000000001",
+          "unitPrice": "$63.98",
+          "extendedPrice": "$447.86"
+        },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105.00000000000001",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822210000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822210000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruUkIfo0Wg4ztGIi9NQ97ylQ%3D%3D",
+      "stock": "7",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        { "breakQty": "7", "unitPrice": "$63.98", "extendedPrice": "$447.86" },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    }
+  ],
+  "2822220000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "4",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        {
+          "breakQty": "7.000000000000001",
+          "unitPrice": "$63.98",
+          "extendedPrice": "$447.86"
+        },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105.00000000000001",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822220000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822220000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWru30AFtIsiqECskZMC7h%2FkKA%3D%3D",
+      "stock": "4",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        { "breakQty": "7", "unitPrice": "$63.98", "extendedPrice": "$447.86" },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    }
+  ],
+  "2822240000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "7",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        {
+          "breakQty": "7.000000000000001",
+          "unitPrice": "$63.98",
+          "extendedPrice": "$447.86"
+        },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105.00000000000001",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822240000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822240000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWrusSNJCd7rmPizNW%252BLapyxvQ%3D%3D",
+      "stock": "7",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        { "breakQty": "7", "unitPrice": "$63.98", "extendedPrice": "$447.86" },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    }
+  ],
+  "2822260000": [
+    {
+      "suplierName": "Mouser",
+      "stock": "3",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        {
+          "breakQty": "7.000000000000001",
+          "unitPrice": "$63.98",
+          "extendedPrice": "$447.86"
+        },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105.00000000000001",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "251.99999999999997",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-2822260000",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/2822260000?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWrujTxD5Rbi%2F2DtUpzHcBNJXg%3D%3D",
+      "stock": "3",
+      "prices": ["$71.09", "$63.98", "$53.32", "$47.28", "$47.28"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$71.09", "extendedPrice": "$71.09" },
+        { "breakQty": "5", "unitPrice": "$67.53", "extendedPrice": "$337.65" },
+        { "breakQty": "7", "unitPrice": "$63.98", "extendedPrice": "$447.86" },
+        {
+          "breakQty": "56",
+          "unitPrice": "$53.32",
+          "extendedPrice": "$2,985.92"
+        },
+        {
+          "breakQty": "105",
+          "unitPrice": "$49.76",
+          "extendedPrice": "$5,224.80"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$47.28",
+          "extendedPrice": "$11,914.56"
+        }
+      ]
+    }
+  ],
   "996G1": [
     {
-      "suplierName": "DigitKey",
+      "suplierName": "DigiKey",
       "stock": "4,560",
       "prices": ["$15.28000", "$13.54200", "$11.80610", "$9.23653", "$9.23653"],
       "pricingTiers": [
@@ -85,7 +1214,7 @@
   ],
   "PIS150H-471M": [
     {
-      "suplierName": "DigitKey",
+      "suplierName": "DigiKey",
       "stock": "175",
       "prices": ["$2.73000", "$2.52400", "$1.97720", "$1.34613", "$1.26200"],
       "pricingTiers": [
@@ -141,7 +1270,7 @@
   ],
   "PS1T24-7X": [
     {
-      "suplierName": "DigitKey",
+      "suplierName": "DigiKey",
       "stock": "748",
       "prices": ["$11.07000", "$9.96600", "$8.90710", "$6.59610", "$6.59610"],
       "pricingTiers": [
@@ -220,7 +1349,7 @@
   ],
   "SBSX75A-PLUG-BLK": [
     {
-      "suplierName": "DigitKey",
+      "suplierName": "DigiKey",
       "stock": "1,915",
       "prices": [
         "$20.77000",
@@ -301,113 +1430,11 @@
           "extendedPrice": "$6,770.00"
         }
       ]
-    },
-    {
-      "suplierName": "Mouser",
-      "stock": "1,836",
-      "prices": ["$20.76", "$17.99", "$14.83", "$13.54", "$13.54"],
-      "pricingTiers": [
-        { "breakQty": "1", "unitPrice": "$20.76", "extendedPrice": "$20.76" },
-        {
-          "breakQty": "10.000000000000002",
-          "unitPrice": "$17.99",
-          "extendedPrice": "$179.90"
-        },
-        { "breakQty": "20", "unitPrice": "$17.06", "extendedPrice": "$341.20" },
-        {
-          "breakQty": "50.00000000000001",
-          "unitPrice": "$16.81",
-          "extendedPrice": "$840.50"
-        },
-        {
-          "breakQty": "100",
-          "unitPrice": "$14.83",
-          "extendedPrice": "$1,483.00"
-        },
-        {
-          "breakQty": "200",
-          "unitPrice": "$13.84",
-          "extendedPrice": "$2,768.00"
-        },
-        {
-          "breakQty": "500.00000000000006",
-          "unitPrice": "$13.54",
-          "extendedPrice": "$6,770.00"
-        }
-      ]
-    },
-    {
-      "suplierName": "Mouser",
-      "stock": "1,836",
-      "prices": ["$20.76", "$17.99", "$14.83", "$13.54", "$13.54"],
-      "pricingTiers": [
-        { "breakQty": "1", "unitPrice": "$20.76", "extendedPrice": "$20.76" },
-        {
-          "breakQty": "10.000000000000002",
-          "unitPrice": "$17.99",
-          "extendedPrice": "$179.90"
-        },
-        { "breakQty": "20", "unitPrice": "$17.06", "extendedPrice": "$341.20" },
-        {
-          "breakQty": "50.00000000000001",
-          "unitPrice": "$16.81",
-          "extendedPrice": "$840.50"
-        },
-        {
-          "breakQty": "100",
-          "unitPrice": "$14.83",
-          "extendedPrice": "$1,483.00"
-        },
-        {
-          "breakQty": "200",
-          "unitPrice": "$13.84",
-          "extendedPrice": "$2,768.00"
-        },
-        {
-          "breakQty": "500.00000000000006",
-          "unitPrice": "$13.54",
-          "extendedPrice": "$6,770.00"
-        }
-      ]
-    },
-    {
-      "suplierName": "Mouser",
-      "stock": "1,836",
-      "prices": ["$20.76", "$17.99", "$14.83", "$13.54", "$13.54"],
-      "pricingTiers": [
-        { "breakQty": "1", "unitPrice": "$20.76", "extendedPrice": "$20.76" },
-        {
-          "breakQty": "10.000000000000002",
-          "unitPrice": "$17.99",
-          "extendedPrice": "$179.90"
-        },
-        { "breakQty": "20", "unitPrice": "$17.06", "extendedPrice": "$341.20" },
-        {
-          "breakQty": "50.00000000000001",
-          "unitPrice": "$16.81",
-          "extendedPrice": "$840.50"
-        },
-        {
-          "breakQty": "100",
-          "unitPrice": "$14.83",
-          "extendedPrice": "$1,483.00"
-        },
-        {
-          "breakQty": "200",
-          "unitPrice": "$13.84",
-          "extendedPrice": "$2,768.00"
-        },
-        {
-          "breakQty": "500.00000000000006",
-          "unitPrice": "$13.54",
-          "extendedPrice": "$6,770.00"
-        }
-      ]
     }
   ],
   "H1120P62": [
     {
-      "suplierName": "DigitKey",
+      "suplierName": "DigiKey",
       "stock": "3,812",
       "prices": ["$0.94000", "$0.79400", "$0.71330", "$0.51874", "$0.47010"],
       "pricingTiers": [
@@ -454,7 +1481,7 @@
   ],
   "SBSX75A-PMPLUG-BLK": [
     {
-      "suplierName": "DigitKey",
+      "suplierName": "DigiKey",
       "stock": "294",
       "prices": ["$12.96000", "$11.48600", "$10.01350", "$7.83413", "$7.83413"],
       "pricingTiers": [
@@ -538,7 +1565,7 @@
   ],
   "SBSX75A-REC-COVER": [
     {
-      "suplierName": "DigitKey",
+      "suplierName": "DigiKey",
       "stock": "469",
       "prices": ["$7.44000", "$6.73100", "$5.89320", "$4.34239", "$4.34239"],
       "pricingTiers": [
@@ -613,6 +1640,358 @@
           "breakQty": "2500",
           "unitPrice": "$4.12",
           "extendedPrice": "$10,300.00"
+        }
+      ]
+    }
+  ],
+  "7940126716": [
+    {
+      "suplierName": "Mouser",
+      "stock": "106",
+      "prices": ["$70.65", "$63.58", "$49.46", "$46.98", "$46.98"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$70.65", "extendedPrice": "$70.65" },
+        { "breakQty": "5", "unitPrice": "$67.12", "extendedPrice": "$335.60" },
+        { "breakQty": "10", "unitPrice": "$63.58", "extendedPrice": "$635.80" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$52.99",
+          "extendedPrice": "$2,649.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$49.46",
+          "extendedPrice": "$4,946.00"
+        },
+        {
+          "breakQty": "250.00000000000003",
+          "unitPrice": "$46.98",
+          "extendedPrice": "$11,745.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-7940126716",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/7940126716?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWru%252BN4pX5J4CYoOMZXnXdoY9A%3D%3D",
+      "stock": "106",
+      "prices": ["$70.65", "$63.58", "$49.46", "$46.98", "$46.98"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$70.65", "extendedPrice": "$70.65" },
+        { "breakQty": "5", "unitPrice": "$67.12", "extendedPrice": "$335.60" },
+        { "breakQty": "10", "unitPrice": "$63.58", "extendedPrice": "$635.80" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$52.99",
+          "extendedPrice": "$2,649.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$49.46",
+          "extendedPrice": "$4,946.00"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$46.98",
+          "extendedPrice": "$11,745.00"
+        }
+      ]
+    }
+  ],
+  "7940102159": [
+    {
+      "suplierName": "Mouser",
+      "stock": "53",
+      "prices": ["$70.65", "$63.58", "$49.46", "$46.98", "$46.98"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$70.65", "extendedPrice": "$70.65" },
+        { "breakQty": "5", "unitPrice": "$67.12", "extendedPrice": "$335.60" },
+        { "breakQty": "10", "unitPrice": "$63.58", "extendedPrice": "$635.80" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$52.99",
+          "extendedPrice": "$2,649.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$49.46",
+          "extendedPrice": "$4,946.00"
+        },
+        {
+          "breakQty": "250.00000000000003",
+          "unitPrice": "$46.98",
+          "extendedPrice": "$11,745.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-7940102159",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/7940102159?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruRy1FCqwtcW2TPtDBcTNZzg%3D%3D",
+      "stock": "53",
+      "prices": ["$70.65", "$63.58", "$49.46", "$46.98", "$46.98"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$70.65", "extendedPrice": "$70.65" },
+        { "breakQty": "5", "unitPrice": "$67.12", "extendedPrice": "$335.60" },
+        { "breakQty": "10", "unitPrice": "$63.58", "extendedPrice": "$635.80" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$52.99",
+          "extendedPrice": "$2,649.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$49.46",
+          "extendedPrice": "$4,946.00"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$46.98",
+          "extendedPrice": "$11,745.00"
+        }
+      ]
+    }
+  ],
+  "7940125374": [
+    {
+      "suplierName": "Mouser",
+      "stock": "32",
+      "prices": ["$70.65", "$63.58", "$49.46", "$46.98", "$46.98"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$70.65", "extendedPrice": "$70.65" },
+        { "breakQty": "5", "unitPrice": "$67.12", "extendedPrice": "$335.60" },
+        { "breakQty": "10", "unitPrice": "$63.58", "extendedPrice": "$635.80" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$52.99",
+          "extendedPrice": "$2,649.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$49.46",
+          "extendedPrice": "$4,946.00"
+        },
+        {
+          "breakQty": "250.00000000000003",
+          "unitPrice": "$46.98",
+          "extendedPrice": "$11,745.00"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-7940125374",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/7940125374?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruFnngYZKDtaSEwHVRaVcYGQ%3D%3D",
+      "stock": "32",
+      "prices": ["$70.65", "$63.58", "$49.46", "$46.98", "$46.98"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$70.65", "extendedPrice": "$70.65" },
+        { "breakQty": "5", "unitPrice": "$67.12", "extendedPrice": "$335.60" },
+        { "breakQty": "10", "unitPrice": "$63.58", "extendedPrice": "$635.80" },
+        {
+          "breakQty": "50",
+          "unitPrice": "$52.99",
+          "extendedPrice": "$2,649.50"
+        },
+        {
+          "breakQty": "100",
+          "unitPrice": "$49.46",
+          "extendedPrice": "$4,946.00"
+        },
+        {
+          "breakQty": "250",
+          "unitPrice": "$46.98",
+          "extendedPrice": "$11,745.00"
+        }
+      ]
+    }
+  ],
+  "7940125379": [
+    {
+      "suplierName": "Mouser",
+      "stock": "13",
+      "prices": ["$26.69", "$25.42", "$20.33", "$16.90", "$16.90"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$26.69", "extendedPrice": "$26.69" },
+        {
+          "breakQty": "4.999999999999999",
+          "unitPrice": "$25.42",
+          "extendedPrice": "$127.10"
+        },
+        { "breakQty": "12", "unitPrice": "$23.51", "extendedPrice": "$282.12" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$20.33",
+          "extendedPrice": "$1,219.80"
+        },
+        {
+          "breakQty": "108.00000000000001",
+          "unitPrice": "$19.06",
+          "extendedPrice": "$2,058.48"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$17.79",
+          "extendedPrice": "$4,483.08"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$16.90",
+          "extendedPrice": "$8,517.60"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-7940125379",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/7940125379?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWrunImQR%252Boo5dUhAXCFAL47Yg%3D%3D",
+      "stock": "13",
+      "prices": ["$26.69", "$25.42", "$20.33", "$16.90", "$16.90"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$26.69", "extendedPrice": "$26.69" },
+        { "breakQty": "5", "unitPrice": "$25.42", "extendedPrice": "$127.10" },
+        { "breakQty": "12", "unitPrice": "$23.51", "extendedPrice": "$282.12" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$20.33",
+          "extendedPrice": "$1,219.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$19.06",
+          "extendedPrice": "$2,058.48"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$17.79",
+          "extendedPrice": "$4,483.08"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$16.90",
+          "extendedPrice": "$8,517.60"
+        }
+      ]
+    }
+  ],
+  "7940102647": [
+    {
+      "suplierName": "Mouser",
+      "stock": "61",
+      "prices": ["$58.51", "$55.59", "$43.88", "$38.91", "$38.91"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$58.51", "extendedPrice": "$58.51" },
+        { "breakQty": "6", "unitPrice": "$55.59", "extendedPrice": "$333.54" },
+        { "breakQty": "12", "unitPrice": "$52.66", "extendedPrice": "$631.92" },
+        {
+          "breakQty": "53.99999999999999",
+          "unitPrice": "$43.88",
+          "extendedPrice": "$2,369.52"
+        },
+        {
+          "breakQty": "102",
+          "unitPrice": "$40.96",
+          "extendedPrice": "$4,177.92"
+        },
+        {
+          "breakQty": "252.00000000000003",
+          "unitPrice": "$38.91",
+          "extendedPrice": "$9,805.32"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-7940102647",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/7940102647?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWrupNvYf1nsXJBWeGkVe6j4cw%3D%3D",
+      "stock": "61",
+      "prices": ["$58.51", "$55.59", "$43.88", "$38.91", "$38.91"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$58.51", "extendedPrice": "$58.51" },
+        { "breakQty": "6", "unitPrice": "$55.59", "extendedPrice": "$333.54" },
+        { "breakQty": "12", "unitPrice": "$52.66", "extendedPrice": "$631.92" },
+        {
+          "breakQty": "54",
+          "unitPrice": "$43.88",
+          "extendedPrice": "$2,369.52"
+        },
+        {
+          "breakQty": "102",
+          "unitPrice": "$40.96",
+          "extendedPrice": "$4,177.92"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$38.91",
+          "extendedPrice": "$9,805.32"
+        }
+      ]
+    }
+  ],
+  "7940102575": [
+    {
+      "suplierName": "Mouser",
+      "stock": "55",
+      "prices": ["$26.69", "$25.42", "$20.33", "$16.90", "$16.90"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$26.69", "extendedPrice": "$26.69" },
+        {
+          "breakQty": "4.999999999999999",
+          "unitPrice": "$25.42",
+          "extendedPrice": "$127.10"
+        },
+        { "breakQty": "12", "unitPrice": "$23.51", "extendedPrice": "$282.12" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$20.33",
+          "extendedPrice": "$1,219.80"
+        },
+        {
+          "breakQty": "108.00000000000001",
+          "unitPrice": "$19.06",
+          "extendedPrice": "$2,058.48"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$17.79",
+          "extendedPrice": "$4,483.08"
+        },
+        {
+          "breakQty": "504.00000000000006",
+          "unitPrice": "$16.90",
+          "extendedPrice": "$8,517.60"
+        }
+      ]
+    },
+    {
+      "suplierName": "Mouser",
+      "sku": "470-7940102575",
+      "link": "https://www.mouser.com/ProductDetail/Weidmuller/7940102575?qs=sGAEpiMZZMuGSqhhLqSWxTuQ9pwTpWruRG77r1aUjx%2FDA4a3h%2FaWzA%3D%3D",
+      "stock": "55",
+      "prices": ["$26.69", "$25.42", "$20.33", "$16.90", "$16.90"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$26.69", "extendedPrice": "$26.69" },
+        { "breakQty": "5", "unitPrice": "$25.42", "extendedPrice": "$127.10" },
+        { "breakQty": "12", "unitPrice": "$23.51", "extendedPrice": "$282.12" },
+        {
+          "breakQty": "60",
+          "unitPrice": "$20.33",
+          "extendedPrice": "$1,219.80"
+        },
+        {
+          "breakQty": "108",
+          "unitPrice": "$19.06",
+          "extendedPrice": "$2,058.48"
+        },
+        {
+          "breakQty": "252",
+          "unitPrice": "$17.79",
+          "extendedPrice": "$4,483.08"
+        },
+        {
+          "breakQty": "504",
+          "unitPrice": "$16.90",
+          "extendedPrice": "$8,517.60"
         }
       ]
     }
