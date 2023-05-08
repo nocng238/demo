@@ -39,7 +39,8 @@ app.listen(port, () => {
 
 const getMouserLinks = async () => {
   const url =
-    "https://www.mouser.com/c/circuit-protection/circuit-breakers-accessories/";
+    "https://www.mouser.vn/c/circuit-protection/circuit-breakers-accessories/circuit-breakers/?q=W28-XQ1A";
+  // "https://www.mouser.com/c/circuit-protection/circuit-breakers-accessories/";
   // const dataBase = fs.readFileSync("data.json", "utf-8");
   // const dataBaseToJson = JSON.parse(dataBase || "");
   const browser = await puppeteer.launch({
@@ -66,7 +67,7 @@ const getMouserLinks = async () => {
 
 export const getMouserPartInfo = async () => {
   const links = (await getMouserLinks()) as string[];
-  const dataBase = fs.readFileSync("data.json", "utf-8");
+  const dataBase = fs.readFileSync("output.json", "utf-8");
   const dataBaseToJson = JSON.parse(dataBase || "");
   // Open a new page
   for (const url of links) {
@@ -78,6 +79,9 @@ export const getMouserPartInfo = async () => {
     const page = await browser.newPage();
     await page.goto(`https://www.mouser.com${url}`, {
       waitUntil: "domcontentloaded",
+    });
+    const image = await page.evaluate(() => {
+      return document.querySelector("#defaultImg")?.getAttribute("src");
     });
     const manufacturerPartNumber = (await page.evaluate(() => {
       return document
@@ -122,6 +126,7 @@ export const getMouserPartInfo = async () => {
           suplierName: "Mouser",
           sku: mouserPartNum,
           link: `https://www.mouser.com${url}`,
+          image: `https://www.mouser.com${image}`,
           stock,
           prices: priceList,
           pricingTiers: actualData,
@@ -133,6 +138,7 @@ export const getMouserPartInfo = async () => {
           suplierName: "Mouser",
           sku: mouserPartNum,
           link: `https://www.mouser.com${url}`,
+          image: `https://www.mouser.com${image}`,
           stock,
           prices: priceList,
           pricingTiers: actualData,
@@ -145,7 +151,7 @@ export const getMouserPartInfo = async () => {
   }
 
   fs.writeFileSync(
-    "data.json",
+    "output.json",
     JSON.stringify({
       ...dataBaseToJson,
     }),
@@ -230,7 +236,9 @@ export const getDigiKeyLinks = async (url: string) => {
   return result;
 };
 const getDigiKeyPartInfo2 = async () => {
-  const url = "https://www.digikey.com/en/products/filter/circuit-breakers/142";
+  // const url = "https://www.digikey.com/en/products/filter/circuit-breakers/142";
+  const url =
+    "https://www.digikey.com/en/products/filter/circuit-breakers/143?s=N4IgTCBcDaIOpgBwFoAaBFAjAQRAXQBoQBWKUABykyPMsjGIF9Gg";
   const links_data = await getDigiKeyLinks(url);
   const dataBase = fs.readFileSync("output.json", "utf-8");
   const dataBaseToJson = JSON.parse(dataBase || "");

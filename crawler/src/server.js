@@ -51,7 +51,8 @@ app.listen(port, () => {
     console.log(`⚡️[server]: Server is running at http://localhost:${port}`);
 });
 const getMouserLinks = () => __awaiter(void 0, void 0, void 0, function* () {
-    const url = "https://www.mouser.com/c/circuit-protection/circuit-breakers-accessories/";
+    const url = "https://www.mouser.vn/c/circuit-protection/circuit-breakers-accessories/circuit-breakers/?q=W28-XQ1A";
+    // "https://www.mouser.com/c/circuit-protection/circuit-breakers-accessories/";
     // const dataBase = fs.readFileSync("data.json", "utf-8");
     // const dataBaseToJson = JSON.parse(dataBase || "");
     const browser = yield puppeteer_1.default.launch({
@@ -72,7 +73,7 @@ const getMouserLinks = () => __awaiter(void 0, void 0, void 0, function* () {
 });
 const getMouserPartInfo = () => __awaiter(void 0, void 0, void 0, function* () {
     const links = (yield getMouserLinks());
-    const dataBase = fs_1.default.readFileSync("data.json", "utf-8");
+    const dataBase = fs_1.default.readFileSync("output.json", "utf-8");
     const dataBaseToJson = JSON.parse(dataBase || "");
     // Open a new page
     for (const url of links) {
@@ -84,6 +85,10 @@ const getMouserPartInfo = () => __awaiter(void 0, void 0, void 0, function* () {
         const page = yield browser.newPage();
         yield page.goto(`https://www.mouser.com${url}`, {
             waitUntil: "domcontentloaded",
+        });
+        const image = yield page.evaluate(() => {
+            var _a;
+            return (_a = document.querySelector("#defaultImg")) === null || _a === void 0 ? void 0 : _a.getAttribute("src");
         });
         const manufacturerPartNumber = (yield page.evaluate(() => {
             var _a, _b;
@@ -118,6 +123,7 @@ const getMouserPartInfo = () => __awaiter(void 0, void 0, void 0, function* () {
                     suplierName: "Mouser",
                     sku: mouserPartNum,
                     link: `https://www.mouser.com${url}`,
+                    image: `https://www.mouser.com${image}`,
                     stock,
                     prices: priceList,
                     pricingTiers: actualData,
@@ -130,6 +136,7 @@ const getMouserPartInfo = () => __awaiter(void 0, void 0, void 0, function* () {
                     suplierName: "Mouser",
                     sku: mouserPartNum,
                     link: `https://www.mouser.com${url}`,
+                    image: `https://www.mouser.com${image}`,
                     stock,
                     prices: priceList,
                     pricingTiers: actualData,
@@ -140,7 +147,7 @@ const getMouserPartInfo = () => __awaiter(void 0, void 0, void 0, function* () {
         yield browser.close();
         yield delay(1000);
     }
-    fs_1.default.writeFileSync("data.json", JSON.stringify(Object.assign({}, dataBaseToJson)), "utf8");
+    fs_1.default.writeFileSync("output.json", JSON.stringify(Object.assign({}, dataBaseToJson)), "utf8");
     // console.log(data);
     // return {
     //   suplierName: 'Mouser',
@@ -207,7 +214,8 @@ const getDigiKeyLinks = (url) => __awaiter(void 0, void 0, void 0, function* () 
 exports.getDigiKeyLinks = getDigiKeyLinks;
 const getDigiKeyPartInfo2 = () => __awaiter(void 0, void 0, void 0, function* () {
     var _a;
-    const url = "https://www.digikey.com/en/products/filter/circuit-breakers/142";
+    // const url = "https://www.digikey.com/en/products/filter/circuit-breakers/142";
+    const url = "https://www.digikey.com/en/products/filter/circuit-breakers/143?s=N4IgTCBcDaIOpgBwFoAaBFAjAQRAXQBoQBWKUABykyPMsjGIF9Gg";
     const links_data = yield (0, exports.getDigiKeyLinks)(url);
     const dataBase = fs_1.default.readFileSync("output.json", "utf-8");
     const dataBaseToJson = JSON.parse(dataBase || "");

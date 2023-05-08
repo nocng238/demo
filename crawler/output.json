@@ -2606,5 +2606,335 @@
         }
       ]
     }
+  ],
+  "W28-XQ1A-16": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-16",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-16?qs=8wHch9UpSvasKKcF3vuf3w%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "4,633",
+      "prices": ["$4.42", "$4.31", "$2.72", "$2.38", "$2.38"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$4.42", "extendedPrice": "$4.42" },
+        { "breakQty": "10", "unitPrice": "$4.31", "extendedPrice": "$43.10" },
+        { "breakQty": "20", "unitPrice": "$4.14", "extendedPrice": "$82.80" },
+        { "breakQty": "50", "unitPrice": "$3.45", "extendedPrice": "$172.50" },
+        { "breakQty": "100", "unitPrice": "$2.72", "extendedPrice": "$272.00" },
+        { "breakQty": "200", "unitPrice": "$2.59", "extendedPrice": "$518.00" },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.38",
+          "extendedPrice": "$1,190.00"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-7": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-7",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-7?qs=HcGz4gPrtoX5Tc5K1pnojg%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "35,645",
+      "prices": ["$4.26", "$4.16", "$3.28", "$2.88", "$2.88"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$4.26", "extendedPrice": "$4.26" },
+        { "breakQty": "10", "unitPrice": "$4.16", "extendedPrice": "$41.60" },
+        { "breakQty": "20", "unitPrice": "$4.09", "extendedPrice": "$81.80" },
+        { "breakQty": "50", "unitPrice": "$3.72", "extendedPrice": "$186.00" },
+        { "breakQty": "100", "unitPrice": "$3.28", "extendedPrice": "$328.00" },
+        { "breakQty": "200", "unitPrice": "$2.88", "extendedPrice": "$576.00" }
+      ]
+    }
+  ],
+  "W28-XQ1A-12": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-12",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-12?qs=wvf%252BmaPDr9McD5wGJ1SQ8w%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "641",
+      "prices": ["$4.84", "$4.50", "$3.18", "$2.69", "$2.50"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$4.84", "extendedPrice": "$4.84" },
+        { "breakQty": "10", "unitPrice": "$4.50", "extendedPrice": "$45.00" },
+        { "breakQty": "20", "unitPrice": "$4.22", "extendedPrice": "$84.40" },
+        { "breakQty": "50", "unitPrice": "$3.66", "extendedPrice": "$183.00" },
+        { "breakQty": "100", "unitPrice": "$3.18", "extendedPrice": "$318.00" },
+        { "breakQty": "200", "unitPrice": "$2.84", "extendedPrice": "$568.00" },
+        {
+          "breakQty": "600",
+          "unitPrice": "$2.69",
+          "extendedPrice": "$1,614.00"
+        },
+        {
+          "breakQty": "1200",
+          "unitPrice": "$2.50",
+          "extendedPrice": "$3,000.00"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-0.50": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-0.50",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-0.50?qs=LiYTmuET8LRVphbF0%2FGCVw%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "2,153",
+      "prices": ["$7.33", "$7.10", "$5.47", "$4.76", "$4.76"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$7.33", "extendedPrice": "$7.33" },
+        { "breakQty": "10", "unitPrice": "$7.10", "extendedPrice": "$71.00" },
+        { "breakQty": "20", "unitPrice": "$6.73", "extendedPrice": "$134.60" },
+        { "breakQty": "50", "unitPrice": "$6.04", "extendedPrice": "$302.00" },
+        { "breakQty": "100", "unitPrice": "$5.47", "extendedPrice": "$547.00" },
+        { "breakQty": "200", "unitPrice": "$4.76", "extendedPrice": "$952.00" }
+      ]
+    }
+  ],
+  "W28-XQ1A-0.75": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-0.75",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-0.75?qs=LiYTmuET8LTNRGqWP4UfuQ%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "451",
+      "prices": ["$7.28", "$7.07", "$4.96", "$4.96", "$4.96"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$7.28", "extendedPrice": "$7.28" },
+        { "breakQty": "10", "unitPrice": "$7.07", "extendedPrice": "$70.70" },
+        { "breakQty": "20", "unitPrice": "$6.26", "extendedPrice": "$125.20" },
+        { "breakQty": "50", "unitPrice": "$5.75", "extendedPrice": "$287.50" },
+        { "breakQty": "100", "unitPrice": "$4.96", "extendedPrice": "$496.00" }
+      ]
+    }
+  ],
+  "W28-XQ1A-2": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-2",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-2?qs=xM7gXedB8kaTU7iC5k6m0w%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "2,824",
+      "prices": ["$9.10", "$8.76", "$5.72", "$4.71", "$4.54"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$9.10", "extendedPrice": "$9.10" },
+        { "breakQty": "10", "unitPrice": "$8.76", "extendedPrice": "$87.60" },
+        { "breakQty": "20", "unitPrice": "$7.41", "extendedPrice": "$148.20" },
+        { "breakQty": "50", "unitPrice": "$6.74", "extendedPrice": "$337.00" },
+        { "breakQty": "100", "unitPrice": "$5.72", "extendedPrice": "$572.00" },
+        {
+          "breakQty": "200",
+          "unitPrice": "$5.39",
+          "extendedPrice": "$1,078.00"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$4.71",
+          "extendedPrice": "$2,826.00"
+        },
+        {
+          "breakQty": "1200",
+          "unitPrice": "$4.54",
+          "extendedPrice": "$5,448.00"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-14": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-14",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-AMP/W28-XQ1A-14?qs=8wHch9UpSvbus0AR1vrjPg%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/W28-XQ1A-13_SPL.jpg",
+      "stock": "11",
+      "prices": ["$5.09", "$4.62", "$4.07", "$2.95", "$2.74"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.09", "extendedPrice": "$5.09" },
+        { "breakQty": "10", "unitPrice": "$4.62", "extendedPrice": "$46.20" },
+        { "breakQty": "100", "unitPrice": "$4.07", "extendedPrice": "$407.00" },
+        { "breakQty": "200", "unitPrice": "$3.56", "extendedPrice": "$712.00" },
+        {
+          "breakQty": "500",
+          "unitPrice": "$3.46",
+          "extendedPrice": "$1,730.00"
+        },
+        {
+          "breakQty": "1000",
+          "unitPrice": "$2.95",
+          "extendedPrice": "$2,950.00"
+        },
+        {
+          "breakQty": "2000",
+          "unitPrice": "$2.74",
+          "extendedPrice": "$5,480.00"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-1": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-1",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-1?qs=HcGz4gPrtoX5W7J9dJVv0w%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "691",
+      "prices": ["$9.10", "$8.76", "$5.72", "$4.71", "$4.54"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$9.10", "extendedPrice": "$9.10" },
+        { "breakQty": "10", "unitPrice": "$8.76", "extendedPrice": "$87.60" },
+        { "breakQty": "20", "unitPrice": "$7.41", "extendedPrice": "$148.20" },
+        { "breakQty": "50", "unitPrice": "$6.74", "extendedPrice": "$337.00" },
+        { "breakQty": "100", "unitPrice": "$5.72", "extendedPrice": "$572.00" },
+        {
+          "breakQty": "200",
+          "unitPrice": "$5.39",
+          "extendedPrice": "$1,078.00"
+        },
+        {
+          "breakQty": "600",
+          "unitPrice": "$4.71",
+          "extendedPrice": "$2,826.00"
+        },
+        {
+          "breakQty": "1200",
+          "unitPrice": "$4.54",
+          "extendedPrice": "$5,448.00"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-13": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-13",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-13?qs=8wHch9UpSvYEyJe%2FqgyAyg%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/W28-XQ1A-13_SPL.jpg",
+      "stock": "309",
+      "prices": ["$5.10", "$4.91", "$3.15", "$2.52", "$2.52"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.10", "extendedPrice": "$5.10" },
+        { "breakQty": "10", "unitPrice": "$4.91", "extendedPrice": "$49.10" },
+        { "breakQty": "20", "unitPrice": "$4.19", "extendedPrice": "$83.80" },
+        { "breakQty": "50", "unitPrice": "$3.82", "extendedPrice": "$191.00" },
+        { "breakQty": "100", "unitPrice": "$3.15", "extendedPrice": "$315.00" },
+        { "breakQty": "200", "unitPrice": "$3.00", "extendedPrice": "$600.00" },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.64",
+          "extendedPrice": "$1,320.00"
+        },
+        {
+          "breakQty": "1000",
+          "unitPrice": "$2.52",
+          "extendedPrice": "$2,520.00"
+        }
+      ]
+    }
+  ],
+  "W28-XQ1A-0.25": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-0.25",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-0.25?qs=JZD3Rbs9Xzn%252BlLOj3MM7nQ%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "726",
+      "prices": ["$10.61", "$10.22", "$6.68", "$6.68", "$6.68"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$10.61", "extendedPrice": "$10.61" },
+        { "breakQty": "10", "unitPrice": "$10.22", "extendedPrice": "$102.20" },
+        { "breakQty": "20", "unitPrice": "$8.65", "extendedPrice": "$173.00" },
+        { "breakQty": "50", "unitPrice": "$7.86", "extendedPrice": "$393.00" },
+        { "breakQty": "100", "unitPrice": "$6.68", "extendedPrice": "$668.00" }
+      ]
+    }
+  ],
+  "W28-XQ1A-8": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-8",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-8?qs=HcGz4gPrtoWPJedXixnxsQ%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "1,990",
+      "prices": ["$3.92", "$3.86", "$2.78", "$2.78", "$2.78"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$3.92", "extendedPrice": "$3.92" },
+        { "breakQty": "10", "unitPrice": "$3.86", "extendedPrice": "$38.60" },
+        { "breakQty": "20", "unitPrice": "$3.73", "extendedPrice": "$74.60" },
+        { "breakQty": "50", "unitPrice": "$3.28", "extendedPrice": "$164.00" },
+        { "breakQty": "100", "unitPrice": "$2.78", "extendedPrice": "$278.00" }
+      ]
+    }
+  ],
+  "W28-XQ1A-9": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-W28-XQ1A-9",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/W28-XQ1A-9?qs=8wHch9UpSvZSMtseupZxUw%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/pr1h40022a.jpg",
+      "stock": "463",
+      "prices": ["$5.13", "$4.65", "$3.19", "$2.64", "$2.64"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.13", "extendedPrice": "$5.13" },
+        { "breakQty": "10", "unitPrice": "$4.65", "extendedPrice": "$46.50" },
+        { "breakQty": "20", "unitPrice": "$4.32", "extendedPrice": "$86.40" },
+        { "breakQty": "50", "unitPrice": "$3.75", "extendedPrice": "$187.50" },
+        { "breakQty": "100", "unitPrice": "$3.19", "extendedPrice": "$319.00" },
+        { "breakQty": "200", "unitPrice": "$3.10", "extendedPrice": "$620.00" },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.64",
+          "extendedPrice": "$1,320.00"
+        }
+      ]
+    }
+  ],
+  "2-1393250-6": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-2-1393250-6",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/2-1393250-6?qs=m7n69Oe80Gf0Wu%252BIdzcEtw%3D%3D",
+      "image": "https://www.mouser.com/images/tycoelectronics/images/1-1393250-7_SPL.jpg",
+      "stock": "280",
+      "prices": ["$5.10", "$4.91", "$3.18", "$3.09", "$3.09"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.10", "extendedPrice": "$5.10" },
+        { "breakQty": "10", "unitPrice": "$4.91", "extendedPrice": "$49.10" },
+        { "breakQty": "20", "unitPrice": "$4.19", "extendedPrice": "$83.80" },
+        { "breakQty": "50", "unitPrice": "$3.82", "extendedPrice": "$191.00" },
+        { "breakQty": "100", "unitPrice": "$3.18", "extendedPrice": "$318.00" },
+        { "breakQty": "200", "unitPrice": "$3.09", "extendedPrice": "$618.00" }
+      ]
+    }
+  ],
+  "1-1423712-4": [
+    {
+      "suplierName": "Mouser",
+      "sku": "655-1-1423712-4",
+      "link": "https://www.mouser.com/ProductDetail/TE-Connectivity-PB/1-1423712-4?qs=ZbH6Gqd5jt3pQlb%2FhRWkog%3D%3D",
+      "image": "https://www.mouser.comundefined",
+      "stock": "70",
+      "prices": ["$5.43", "$5.24", "$3.39", "$2.66", "$2.66"],
+      "pricingTiers": [
+        { "breakQty": "1", "unitPrice": "$5.43", "extendedPrice": "$5.43" },
+        { "breakQty": "10", "unitPrice": "$5.24", "extendedPrice": "$52.40" },
+        { "breakQty": "20", "unitPrice": "$4.46", "extendedPrice": "$89.20" },
+        { "breakQty": "50", "unitPrice": "$4.07", "extendedPrice": "$203.50" },
+        { "breakQty": "100", "unitPrice": "$3.39", "extendedPrice": "$339.00" },
+        { "breakQty": "200", "unitPrice": "$3.29", "extendedPrice": "$658.00" },
+        {
+          "breakQty": "500",
+          "unitPrice": "$2.81",
+          "extendedPrice": "$1,405.00"
+        },
+        {
+          "breakQty": "1000",
+          "unitPrice": "$2.66",
+          "extendedPrice": "$2,660.00"
+        }
+      ]
+    }
   ]
 }
